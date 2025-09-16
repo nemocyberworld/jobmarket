@@ -9550,5 +9550,4437 @@
     "color": "blue",
     "desc": "German recruitment and staffing company, part of Adecco Group.",
     "url": "https://www.dis-ag.com"
+  },
+  {
+    "name": "Kariera.gr",
+    "category": "job",
+    "country": "greece",
+    "color": "blue",
+    "desc": "The largest and most popular job portal in Greece.",
+    "url": "https://www.kariera.gr"
+  },
+  {
+    "name": "Skywalker.gr",
+    "category": "job",
+    "country": "greece",
+    "color": "blue",
+    "desc": "One of Greece’s leading job sites with nationwide coverage.",
+    "url": "https://www.skywalker.gr"
+  },
+  {
+    "name": "JobFind.gr",
+    "category": "job",
+    "country": "greece",
+    "color": "blue",
+    "desc": "Local Greek job board offering listings across industries.",
+    "url": "https://www.jobfind.gr"
+  },
+  {
+    "name": "Jobsite.gr",
+    "category": "job",
+    "country": "greece",
+    "color": "blue",
+    "desc": "Greek job portal with multiple sector listings.",
+    "url": "https://www.jobsite.gr"
+  },
+  {
+    "name": "Indeed Greece",
+    "category": "job",
+    "country": "greece",
+    "color": "blue",
+    "desc": "Localized version of Indeed for the Greek market.",
+    "url": "https://gr.indeed.com"
+  },
+  {
+    "name": "Glassdoor Greece",
+    "category": "job",
+    "country": "greece",
+    "color": "blue",
+    "desc": "Glassdoor job listings, salaries, and company reviews in Greece.",
+    "url": "https://www.glassdoor.com/Job/greece-jobs-SRCH_IL.0,6_IN96.htm"
+  },
+  {
+    "name": "LinkedIn Greece Jobs",
+    "category": "job",
+    "country": "greece",
+    "color": "blue",
+    "desc": "Professional networking and job opportunities in Greece.",
+    "url": "https://www.linkedin.com/jobs/greece"
+  },
+  {
+    "name": "Careerjet Greece",
+    "category": "job",
+    "country": "greece",
+    "color": "blue",
+    "desc": "Global job aggregator with a localized portal for Greece.",
+    "url": "https://www.careerjet.gr"
+  },
+  {
+    "name": "Jooble Greece",
+    "category": "job",
+    "country": "greece",
+    "color": "blue",
+    "desc": "Job aggregator pulling listings from multiple sources in Greece.",
+    "url": "https://gr.jooble.org"
+  },
+  {
+    "name": "Adzuna Greece",
+    "category": "job",
+    "country": "greece",
+    "color": "blue",
+    "desc": "Greek branch of the global Adzuna job search engine.",
+    "url": "https://www.adzuna.gr"
+  },
+  {
+    "name": "Xe.gr Jobs",
+    "category": "job",
+    "country": "greece",
+    "color": "blue",
+    "desc": "Popular Greek classifieds site with a section for jobs.",
+    "url": "https://www.xe.gr/jobs"
+  },
+  {
+    "name": "Douleutaras.gr",
+    "category": "freelance",
+    "country": "greece",
+    "color": "green",
+    "desc": "Platform for service-based freelance and gig jobs in Greece.",
+    "url": "https://www.douleutaras.gr"
+  },
+  {
+    "name": "Workable",
+    "category": "job",
+    "country": "greece",
+    "color": "blue",
+    "desc": "Greek-founded global recruitment platform used by many companies.",
+    "url": "https://www.workable.com"
+  },
+  {
+    "name": "ASEP",
+    "category": "government",
+    "country": "greece",
+    "color": "yellow",
+    "desc": "Supreme Council for Civil Personnel Selection — official portal for Greek public sector jobs.",
+    "url": "https://www.asep.gr"
+  },
+  {
+    "name": "Randstad Greece",
+    "category": "job",
+    "country": "greece",
+    "color": "blue",
+    "desc": "Randstad staffing and recruitment services in Greece.",
+    "url": "https://www.randstad.gr"
+  },
+  {
+    "name": "Manpower Greece",
+    "category": "job",
+    "country": "greece",
+    "color": "blue",
+    "desc": "Manpower’s Greek branch offering HR and staffing services.",
+    "url": "https://www.manpowergroup.gr"
+  },
+  {
+    "name": "Adecco Greece",
+    "category": "job",
+    "country": "greece",
+    "color": "blue",
+    "desc": "Adecco staffing and recruitment services in Greece.",
+    "url": "https://www.adecco.gr"
+  },
+  {
+    "name": "Kariera Summer Jobs",
+    "category": "hospitality",
+    "country": "greece",
+    "color": "purple",
+    "desc": "Portal focusing on seasonal and tourism jobs in Greece.",
+    "url": "https://www.kariera.gr/el/summer-jobs"
+  },
+  {
+    "name": "JobsDB Hong Kong",
+    "category": "job",
+    "country": "hongkong",
+    "color": "blue",
+    "desc": "Hong Kong’s largest and most popular job portal.",
+    "url": "https://hk.jobsdb.com"
+  },
+  {
+    "name": "CTgoodjobs",
+    "category": "job",
+    "country": "hongkong",
+    "color": "blue",
+    "desc": "Well-known Hong Kong job site with thousands of listings.",
+    "url": "https://www.ctgoodjobs.hk"
+  },
+  {
+    "name": "CP Jobs",
+    "category": "job",
+    "country": "hongkong",
+    "color": "blue",
+    "desc": "SCMP’s recruitment portal offering job listings across industries.",
+    "url": "https://www.cpjobs.com"
+  },
+  {
+    "name": "JobMarket",
+    "category": "job",
+    "country": "hongkong",
+    "color": "blue",
+    "desc": "Local Hong Kong job site with a wide variety of roles.",
+    "url": "https://www.jobmarket.com.hk"
+  },
+  {
+    "name": "Indeed Hong Kong",
+    "category": "job",
+    "country": "hongkong",
+    "color": "blue",
+    "desc": "Localized version of Indeed for the Hong Kong job market.",
+    "url": "https://hk.indeed.com"
+  },
+  {
+    "name": "Glassdoor Hong Kong",
+    "category": "job",
+    "country": "hongkong",
+    "color": "blue",
+    "desc": "Job listings, reviews, and salaries for companies in Hong Kong.",
+    "url": "https://www.glassdoor.com/Job/hong-kong-jobs-SRCH_IL.0,9_IN106.htm"
+  },
+  {
+    "name": "LinkedIn Hong Kong Jobs",
+    "category": "job",
+    "country": "hongkong",
+    "color": "blue",
+    "desc": "Professional networking and job listings tailored to Hong Kong.",
+    "url": "https://www.linkedin.com/jobs/hong-kong"
+  },
+  {
+    "name": "Monster Hong Kong",
+    "category": "job",
+    "country": "hongkong",
+    "color": "blue",
+    "desc": "Monster’s Hong Kong job portal with global opportunities.",
+    "url": "https://www.monster.com.hk"
+  },
+  {
+    "name": "JobStreet Hong Kong",
+    "category": "job",
+    "country": "hongkong",
+    "color": "blue",
+    "desc": "Regional job portal with a strong presence in Hong Kong.",
+    "url": "https://www.jobstreet.com.hk"
+  },
+  {
+    "name": "GradConnection Hong Kong",
+    "category": "internship",
+    "country": "hongkong",
+    "color": "teal",
+    "desc": "Portal for student, graduate, and internship opportunities in Hong Kong.",
+    "url": "https://hk.gradconnection.com"
+  },
+  {
+    "name": "Jobs.gov.hk",
+    "category": "government",
+    "country": "hongkong",
+    "color": "yellow",
+    "desc": "Official Hong Kong government jobs portal.",
+    "url": "https://www.jobs.gov.hk"
+  },
+  {
+    "name": "EURES Hong Kong",
+    "category": "job",
+    "country": "hongkong",
+    "color": "blue",
+    "desc": "EU-linked international job network with listings in Hong Kong.",
+    "url": "https://ec.europa.eu/eures"
+  },
+  {
+    "name": "Michael Page Hong Kong",
+    "category": "job",
+    "country": "hongkong",
+    "color": "blue",
+    "desc": "Recruitment agency providing professional roles in Hong Kong.",
+    "url": "https://www.michaelpage.com.hk"
+  },
+  {
+    "name": "Hays Hong Kong",
+    "category": "job",
+    "country": "hongkong",
+    "color": "blue",
+    "desc": "Global recruitment agency with a strong presence in Hong Kong.",
+    "url": "https://www.hays.com.hk"
+  },
+  {
+    "name": "Robert Walters Hong Kong",
+    "category": "job",
+    "country": "hongkong",
+    "color": "blue",
+    "desc": "Recruitment consultancy specializing in professional jobs in Hong Kong.",
+    "url": "https://www.robertwalters.com.hk"
+  },
+  {
+    "name": "Randstad Hong Kong",
+    "category": "job",
+    "country": "hongkong",
+    "color": "blue",
+    "desc": "Randstad staffing and HR services in Hong Kong.",
+    "url": "https://www.randstad.com.hk"
+  },
+  {
+    "name": "Manpower Hong Kong",
+    "category": "job",
+    "country": "hongkong",
+    "color": "blue",
+    "desc": "Manpower recruitment and HR services in Hong Kong.",
+    "url": "https://www.manpower.com.hk"
+  },
+  {
+    "name": "Adecco Hong Kong",
+    "category": "job",
+    "country": "hongkong",
+    "color": "blue",
+    "desc": "Adecco staffing and recruitment agency operating in Hong Kong.",
+    "url": "https://www.adecco.com.hk"
+  },
+  {
+    "name": "Profession.hu",
+    "category": "job",
+    "country": "hungary",
+    "color": "blue",
+    "desc": "The largest and most popular job portal in Hungary.",
+    "url": "https://www.profession.hu"
+  },
+  {
+    "name": "Jobline.hu",
+    "category": "job",
+    "country": "hungary",
+    "color": "blue",
+    "desc": "Leading Hungarian career portal with nationwide coverage.",
+    "url": "https://www.jobline.hu"
+  },
+  {
+    "name": "Workania.hu",
+    "category": "job",
+    "country": "hungary",
+    "color": "blue",
+    "desc": "Job portal serving Hungary and neighboring countries.",
+    "url": "https://www.workania.hu"
+  },
+  {
+    "name": "CVonline.hu",
+    "category": "job",
+    "country": "hungary",
+    "color": "blue",
+    "desc": "One of Hungary’s longest-standing job portals.",
+    "url": "https://www.cvonline.hu"
+  },
+  {
+    "name": "Indeed Hungary",
+    "category": "job",
+    "country": "hungary",
+    "color": "blue",
+    "desc": "Localized version of Indeed for the Hungarian market.",
+    "url": "https://hu.indeed.com"
+  },
+  {
+    "name": "Glassdoor Hungary",
+    "category": "job",
+    "country": "hungary",
+    "color": "blue",
+    "desc": "Job listings, reviews, and salaries for companies in Hungary.",
+    "url": "https://www.glassdoor.com/Job/hungary-jobs-SRCH_IL.0,7_IN98.htm"
+  },
+  {
+    "name": "LinkedIn Hungary Jobs",
+    "category": "job",
+    "country": "hungary",
+    "color": "blue",
+    "desc": "Professional networking and job opportunities in Hungary.",
+    "url": "https://www.linkedin.com/jobs/hungary"
+  },
+  {
+    "name": "Jobinfo.hu",
+    "category": "job",
+    "country": "hungary",
+    "color": "blue",
+    "desc": "Local Hungarian job board with sector-specific listings.",
+    "url": "https://www.jobinfo.hu"
+  },
+  {
+    "name": "Jobpilot.hu",
+    "category": "job",
+    "country": "hungary",
+    "color": "blue",
+    "desc": "Job portal for Hungary with varied industry listings.",
+    "url": "https://www.jobpilot.hu"
+  },
+  {
+    "name": "Monster Hungary",
+    "category": "job",
+    "country": "hungary",
+    "color": "blue",
+    "desc": "Monster’s Hungarian site offering local and global opportunities.",
+    "url": "https://www.monster.hu"
+  },
+  {
+    "name": "Jobstreet Hungary",
+    "category": "job",
+    "country": "hungary",
+    "color": "blue",
+    "desc": "Regional job site with a presence in Hungary.",
+    "url": "https://www.jobstreet.hu"
+  },
+  {
+    "name": "KarrierStart.hu",
+    "category": "job",
+    "country": "hungary",
+    "color": "blue",
+    "desc": "Hungarian job site with listings across industries.",
+    "url": "https://www.karrierstart.hu"
+  },
+  {
+    "name": "AllasOrias.hu",
+    "category": "job",
+    "country": "hungary",
+    "color": "blue",
+    "desc": "Comprehensive Hungarian job aggregator and portal.",
+    "url": "https://www.allasorias.hu"
+  },
+  {
+    "name": "Jooble Hungary",
+    "category": "job",
+    "country": "hungary",
+    "color": "blue",
+    "desc": "Job aggregator pulling listings from multiple Hungarian portals.",
+    "url": "https://hu.jooble.org"
+  },
+  {
+    "name": "Adzuna Hungary",
+    "category": "job",
+    "country": "hungary",
+    "color": "blue",
+    "desc": "Hungarian branch of Adzuna global job search engine.",
+    "url": "https://www.adzuna.hu"
+  },
+  {
+    "name": "Careerjet Hungary",
+    "category": "job",
+    "country": "hungary",
+    "color": "blue",
+    "desc": "Global job search engine with a localized portal for Hungary.",
+    "url": "https://www.careerjet.hu"
+  },
+  {
+    "name": "EURES Hungary",
+    "category": "government",
+    "country": "hungary",
+    "color": "yellow",
+    "desc": "EU-wide job mobility portal with opportunities in Hungary.",
+    "url": "https://ec.europa.eu/eures"
+  },
+  {
+    "name": "Randstad Hungary",
+    "category": "job",
+    "country": "hungary",
+    "color": "blue",
+    "desc": "Randstad staffing and recruitment services in Hungary.",
+    "url": "https://www.randstad.hu"
+  },
+  {
+    "name": "Manpower Hungary",
+    "category": "job",
+    "country": "hungary",
+    "color": "blue",
+    "desc": "Manpower recruitment and HR services across Hungary.",
+    "url": "https://www.manpower.hu"
+  },
+  {
+    "name": "Adecco Hungary",
+    "category": "job",
+    "country": "hungary",
+    "color": "blue",
+    "desc": "Adecco staffing and recruitment agency in Hungary.",
+    "url": "https://www.adecco.hu"
+  },
+  {
+    "name": "Hays Hungary",
+    "category": "job",
+    "country": "hungary",
+    "color": "blue",
+    "desc": "Global recruitment agency with strong operations in Hungary.",
+    "url": "https://www.hays.hu"
+  },
+  {
+    "name": "Kelly Services Hungary",
+    "category": "job",
+    "country": "hungary",
+    "color": "blue",
+    "desc": "Recruitment and HR services agency with presence in Hungary.",
+    "url": "https://www.kellyservices.hu"
+  },
+  {
+    "name": "Naukri.com",
+    "category": "job",
+    "country": "india",
+    "color": "blue",
+    "desc": "India’s largest and most popular job portal.",
+    "url": "https://www.naukri.com"
+  },
+  {
+    "name": "Shine.com",
+    "category": "job",
+    "country": "india",
+    "color": "blue",
+    "desc": "Major Indian job portal with diverse industry listings.",
+    "url": "https://www.shine.com"
+  },
+  {
+    "name": "TimesJobs",
+    "category": "job",
+    "country": "india",
+    "color": "blue",
+    "desc": "Job portal run by the Times Group with nationwide coverage.",
+    "url": "https://www.timesjobs.com"
+  },
+  {
+    "name": "Freshersworld",
+    "category": "internship",
+    "country": "india",
+    "color": "teal",
+    "desc": "India’s No.1 job portal for freshers and entry-level opportunities.",
+    "url": "https://www.freshersworld.com"
+  },
+  {
+    "name": "Foundit",
+    "category": "job",
+    "country": "india",
+    "color": "blue",
+    "desc": "Formerly Monster India, one of India’s top job portals.",
+    "url": "https://www.foundit.in"
+  },
+  {
+    "name": "Indeed India",
+    "category": "job",
+    "country": "india",
+    "color": "blue",
+    "desc": "Localized version of Indeed for the Indian job market.",
+    "url": "https://in.indeed.com"
+  },
+  {
+    "name": "LinkedIn India Jobs",
+    "category": "job",
+    "country": "india",
+    "color": "blue",
+    "desc": "Professional networking and job listings tailored to India.",
+    "url": "https://www.linkedin.com/jobs/india"
+  },
+  {
+    "name": "Glassdoor India",
+    "category": "job",
+    "country": "india",
+    "color": "blue",
+    "desc": "Glassdoor job listings, salaries, and company reviews in India.",
+    "url": "https://www.glassdoor.co.in/Job"
+  },
+  {
+    "name": "Placement India",
+    "category": "job",
+    "country": "india",
+    "color": "blue",
+    "desc": "Popular Indian job portal for all industries and sectors.",
+    "url": "https://www.placementindia.com"
+  },
+  {
+    "name": "Updazz",
+    "category": "sales",
+    "country": "india",
+    "color": "purple",
+    "desc": "Specialized job portal focusing on sales and marketing roles.",
+    "url": "https://www.updazz.com"
+  },
+  {
+    "name": "JobsAhead",
+    "category": "job",
+    "country": "india",
+    "color": "blue",
+    "desc": "Early job portal in India with various listings.",
+    "url": "https://www.jobsahead.com"
+  },
+  {
+    "name": "Careesma India",
+    "category": "job",
+    "country": "india",
+    "color": "blue",
+    "desc": "Job portal offering nationwide job listings across sectors.",
+    "url": "https://www.careesma.in"
+  },
+  {
+    "name": "ClickIndia Jobs",
+    "category": "job",
+    "country": "india",
+    "color": "blue",
+    "desc": "Indian classifieds platform with a strong job section.",
+    "url": "https://www.clickindia.com/jobs"
+  },
+  {
+    "name": "Fresherslive",
+    "category": "internship",
+    "country": "india",
+    "color": "teal",
+    "desc": "Portal for freshers and students to find internships and entry-level jobs.",
+    "url": "https://www.fresherslive.com"
+  },
+  {
+    "name": "Jobsora India",
+    "category": "job",
+    "country": "india",
+    "color": "blue",
+    "desc": "Job search engine aggregating listings across India.",
+    "url": "https://in.jobsora.com"
+  },
+  {
+    "name": "Jobhai",
+    "category": "gig",
+    "country": "india",
+    "color": "green",
+    "desc": "Local jobs app focusing on blue-collar and service jobs.",
+    "url": "https://www.jobhai.com"
+  },
+  {
+    "name": "WorkIndia",
+    "category": "gig",
+    "country": "india",
+    "color": "green",
+    "desc": "Blue-collar and entry-level job app widely used in India.",
+    "url": "https://www.workindia.in"
+  },
+  {
+    "name": "Apna Jobs",
+    "category": "gig",
+    "country": "india",
+    "color": "green",
+    "desc": "App-based platform for gig and blue-collar jobs in India.",
+    "url": "https://apna.co"
+  },
+  {
+    "name": "TeamLease",
+    "category": "job",
+    "country": "india",
+    "color": "blue",
+    "desc": "Large staffing and recruitment company with job listings.",
+    "url": "https://www.teamlease.com"
+  },
+  {
+    "name": "Quikr Jobs",
+    "category": "gig",
+    "country": "india",
+    "color": "green",
+    "desc": "Part of Quikr classifieds, focused on blue-collar and entry-level jobs.",
+    "url": "https://www.quikr.com/jobs"
+  },
+  {
+    "name": "Sarkari Naukri",
+    "category": "government",
+    "country": "india",
+    "color": "yellow",
+    "desc": "Portal for Indian government job listings and updates.",
+    "url": "https://www.sarkari-naukri.in"
+  },
+  {
+    "name": "Employment News",
+    "category": "government",
+    "country": "india",
+    "color": "yellow",
+    "desc": "Official government publication listing public sector jobs.",
+    "url": "http://employmentnews.gov.in"
+  },
+  {
+    "name": "NCS",
+    "category": "government",
+    "country": "india",
+    "color": "yellow",
+    "desc": "National Career Service, India’s government-run career portal.",
+    "url": "https://www.ncs.gov.in"
+  },
+  {
+    "name": "Internshala",
+    "category": "internship",
+    "country": "india",
+    "color": "teal",
+    "desc": "India’s leading platform for internships and student jobs.",
+    "url": "https://internshala.com"
+  },
+  {
+    "name": "LetsIntern",
+    "category": "internship",
+    "country": "india",
+    "color": "teal",
+    "desc": "Portal connecting students to internships and early career jobs.",
+    "url": "https://www.letsintern.com"
+  },
+  {
+    "name": "Twenty19",
+    "category": "internship",
+    "country": "india",
+    "color": "teal",
+    "desc": "Platform for student projects, internships, and early career roles.",
+    "url": "https://www.twenty19.com"
+  },
+  {
+    "name": "CutShort",
+    "category": "startup",
+    "country": "india",
+    "color": "orange",
+    "desc": "Startup and tech-focused job platform in India.",
+    "url": "https://cutshort.io"
+  },
+  {
+    "name": "AngelList India (Wellfound)",
+    "category": "startup",
+    "country": "india",
+    "color": "orange",
+    "desc": "Startup job platform with a large Indian presence.",
+    "url": "https://wellfound.com"
+  },
+  {
+    "name": "Instahyre",
+    "category": "tech",
+    "country": "india",
+    "color": "pink",
+    "desc": "Premium hiring platform for mid-to-senior level tech roles.",
+    "url": "https://www.instahyre.com"
+  },
+  {
+    "name": "iimjobs",
+    "category": "executive",
+    "country": "india",
+    "color": "orange",
+    "desc": "Specialized portal for mid-senior management and MBA-level roles.",
+    "url": "https://www.iimjobs.com"
+  },
+  {
+    "name": "Hirist",
+    "category": "tech",
+    "country": "india",
+    "color": "pink",
+    "desc": "Tech-focused job platform popular for IT and developer roles.",
+    "url": "https://www.hirist.com"
+  },
+  {
+    "name": "Michael Page India",
+    "category": "job",
+    "country": "india",
+    "color": "blue",
+    "desc": "Recruitment agency providing professional roles in India.",
+    "url": "https://www.michaelpage.in"
+  },
+  {
+    "name": "Randstad India",
+    "category": "job",
+    "country": "india",
+    "color": "blue",
+    "desc": "Randstad staffing and HR services in India.",
+    "url": "https://www.randstad.in"
+  },
+  {
+    "name": "Adecco India",
+    "category": "job",
+    "country": "india",
+    "color": "blue",
+    "desc": "Adecco’s Indian branch offering staffing and recruitment solutions.",
+    "url": "https://www.adecco.co.in"
+  },
+  {
+    "name": "Manpower India",
+    "category": "job",
+    "country": "india",
+    "color": "blue",
+    "desc": "Manpower recruitment and HR solutions across India.",
+    "url": "https://www.manpowergroup.co.in"
+  },
+  {
+    "name": "Kelly Services India",
+    "category": "job",
+    "country": "india",
+    "color": "blue",
+    "desc": "Kelly Services recruitment and staffing in India.",
+    "url": "https://www.kellyservices.co.in"
+  },
+  {
+    "name": "ABC Consultants",
+    "category": "job",
+    "country": "india",
+    "color": "blue",
+    "desc": "One of India’s oldest and leading recruitment consultancies.",
+    "url": "https://www.abcconsultants.in"
+  },
+  {
+    "name": "JobStreet Indonesia",
+    "category": "job",
+    "country": "indonesia",
+    "color": "blue",
+    "desc": "One of the largest and most popular job portals in Indonesia.",
+    "url": "https://www.jobstreet.co.id"
+  },
+  {
+    "name": "JobsDB Indonesia",
+    "category": "job",
+    "country": "indonesia",
+    "color": "blue",
+    "desc": "Well-known job site in Indonesia for a variety of industries.",
+    "url": "https://id.jobsdb.com"
+  },
+  {
+    "name": "Karir.com",
+    "category": "job",
+    "country": "indonesia",
+    "color": "blue",
+    "desc": "Popular Indonesian job portal with wide coverage.",
+    "url": "https://www.karir.com"
+  },
+  {
+    "name": "Karirpad",
+    "category": "job",
+    "country": "indonesia",
+    "color": "blue",
+    "desc": "Indonesian job portal for professionals and fresh graduates.",
+    "url": "https://www.karirpad.com"
+  },
+  {
+    "name": "Glints Indonesia",
+    "category": "job",
+    "country": "indonesia",
+    "color": "blue",
+    "desc": "Regional job platform for young professionals and startups.",
+    "url": "https://glints.com/id"
+  },
+  {
+    "name": "Kalibrr Indonesia",
+    "category": "job",
+    "country": "indonesia",
+    "color": "blue",
+    "desc": "Southeast Asian job portal with strong presence in Indonesia.",
+    "url": "https://www.kalibrr.id"
+  },
+  {
+    "name": "TopKarir",
+    "category": "internship",
+    "country": "indonesia",
+    "color": "teal",
+    "desc": "Job platform focusing on fresh graduates, students, and internships.",
+    "url": "https://www.topkarir.com"
+  },
+  {
+    "name": "Indeed Indonesia",
+    "category": "job",
+    "country": "indonesia",
+    "color": "blue",
+    "desc": "Localized version of Indeed for the Indonesian market.",
+    "url": "https://id.indeed.com"
+  },
+  {
+    "name": "Glassdoor Indonesia",
+    "category": "job",
+    "country": "indonesia",
+    "color": "blue",
+    "desc": "Job listings, salaries, and company reviews in Indonesia.",
+    "url": "https://www.glassdoor.com/Job/indonesia-jobs-SRCH_IL.0,9_IN113.htm"
+  },
+  {
+    "name": "LinkedIn Indonesia Jobs",
+    "category": "job",
+    "country": "indonesia",
+    "color": "blue",
+    "desc": "Professional networking and job opportunities in Indonesia.",
+    "url": "https://www.linkedin.com/jobs/indonesia"
+  },
+  {
+    "name": "Monster Indonesia",
+    "category": "job",
+    "country": "indonesia",
+    "color": "blue",
+    "desc": "Monster’s Indonesian site offering global and local opportunities.",
+    "url": "https://www.monster.co.id"
+  },
+  {
+    "name": "Jooble Indonesia",
+    "category": "job",
+    "country": "indonesia",
+    "color": "blue",
+    "desc": "Job search aggregator pulling listings from multiple Indonesian portals.",
+    "url": "https://id.jooble.org"
+  },
+  {
+    "name": "Adzuna Indonesia",
+    "category": "job",
+    "country": "indonesia",
+    "color": "blue",
+    "desc": "Indonesian branch of the global Adzuna job search engine.",
+    "url": "https://www.adzuna.co.id"
+  },
+  {
+    "name": "Careerjet Indonesia",
+    "category": "job",
+    "country": "indonesia",
+    "color": "blue",
+    "desc": "Global job search engine with a localized portal for Indonesia.",
+    "url": "https://www.careerjet.co.id"
+  },
+  {
+    "name": "Jobindo.com",
+    "category": "job",
+    "country": "indonesia",
+    "color": "blue",
+    "desc": "Local Indonesian job portal with industry-wide listings.",
+    "url": "https://www.jobindo.com"
+  },
+  {
+    "name": "Loker.id",
+    "category": "job",
+    "country": "indonesia",
+    "color": "blue",
+    "desc": "Popular Indonesian portal for job seekers and employers.",
+    "url": "https://www.loker.id"
+  },
+  {
+    "name": "Jobnas.com",
+    "category": "job",
+    "country": "indonesia",
+    "color": "blue",
+    "desc": "Online job portal with listings across Indonesia.",
+    "url": "https://www.jobnas.com"
+  },
+  {
+    "name": "Urbanhire",
+    "category": "job",
+    "country": "indonesia",
+    "color": "blue",
+    "desc": "Modern Indonesian recruitment and job platform.",
+    "url": "https://www.urbanhire.com"
+  },
+  {
+    "name": "Qerja",
+    "category": "job",
+    "country": "indonesia",
+    "color": "blue",
+    "desc": "Platform with salary insights and job postings, similar to Glassdoor.",
+    "url": "https://www.qerja.com"
+  },
+  {
+    "name": "Jobplanet",
+    "category": "job",
+    "country": "indonesia",
+    "color": "blue",
+    "desc": "Company review and job site with strong presence in Indonesia.",
+    "url": "https://www.jobplanet.com"
+  },
+  {
+    "name": "KompasKarier",
+    "category": "job",
+    "country": "indonesia",
+    "color": "blue",
+    "desc": "Job portal by Kompas, one of Indonesia’s largest media groups.",
+    "url": "https://www.kompaskarier.com"
+  },
+  {
+    "name": "Jobsmobile",
+    "category": "job",
+    "country": "indonesia",
+    "color": "blue",
+    "desc": "Mobile-friendly Indonesian job search platform.",
+    "url": "https://jobsmobile.id"
+  },
+  {
+    "name": "Ekrut",
+    "category": "job",
+    "country": "indonesia",
+    "color": "blue",
+    "desc": "Headhunting and recruitment platform connecting professionals to companies.",
+    "url": "https://www.ekrut.com"
+  },
+  {
+    "name": "Michael Page Indonesia",
+    "category": "job",
+    "country": "indonesia",
+    "color": "blue",
+    "desc": "Recruitment agency offering professional opportunities in Indonesia.",
+    "url": "https://www.michaelpage.co.id"
+  },
+  {
+    "name": "Hays Indonesia",
+    "category": "job",
+    "country": "indonesia",
+    "color": "blue",
+    "desc": "Global recruitment agency with a strong presence in Indonesia.",
+    "url": "https://www.hays.co.id"
+  },
+  {
+    "name": "Robert Walters Indonesia",
+    "category": "job",
+    "country": "indonesia",
+    "color": "blue",
+    "desc": "Recruitment consultancy offering mid-to-senior level roles in Indonesia.",
+    "url": "https://www.robertwalters.co.id"
+  },
+  {
+    "name": "Randstad Indonesia",
+    "category": "job",
+    "country": "indonesia",
+    "color": "blue",
+    "desc": "Randstad staffing and HR services in Indonesia.",
+    "url": "https://www.randstad.co.id"
+  },
+  {
+    "name": "Adecco Indonesia",
+    "category": "job",
+    "country": "indonesia",
+    "color": "blue",
+    "desc": "Adecco recruitment and staffing services in Indonesia.",
+    "url": "https://www.adecco.co.id"
+  },
+  {
+    "name": "Manpower Indonesia",
+    "category": "job",
+    "country": "indonesia",
+    "color": "blue",
+    "desc": "Manpower recruitment and HR solutions across Indonesia.",
+    "url": "https://www.manpowergroup.co.id"
+  },
+  {
+    "name": "IrishJobs.ie",
+    "category": "job",
+    "country": "ireland",
+    "color": "blue",
+    "desc": "Ireland’s leading and most popular job site with thousands of listings.",
+    "url": "https://www.irishjobs.ie"
+  },
+  {
+    "name": "Jobs.ie",
+    "category": "job",
+    "country": "ireland",
+    "color": "blue",
+    "desc": "Well-known Irish job portal covering hospitality, retail, and more.",
+    "url": "https://www.jobs.ie"
+  },
+  {
+    "name": "RecruitIreland.com",
+    "category": "job",
+    "country": "ireland",
+    "color": "blue",
+    "desc": "Irish job portal offering listings across industries.",
+    "url": "https://www.recruitireland.com"
+  },
+  {
+    "name": "Indeed Ireland",
+    "category": "job",
+    "country": "ireland",
+    "color": "blue",
+    "desc": "Localized version of Indeed for the Irish market.",
+    "url": "https://ie.indeed.com"
+  },
+  {
+    "name": "LinkedIn Ireland Jobs",
+    "category": "job",
+    "country": "ireland",
+    "color": "blue",
+    "desc": "Professional networking and job listings tailored to Ireland.",
+    "url": "https://www.linkedin.com/jobs/ireland"
+  },
+  {
+    "name": "Glassdoor Ireland",
+    "category": "job",
+    "country": "ireland",
+    "color": "blue",
+    "desc": "Glassdoor job listings, salaries, and reviews for companies in Ireland.",
+    "url": "https://www.glassdoor.ie/Job"
+  },
+  {
+    "name": "Monster Ireland",
+    "category": "job",
+    "country": "ireland",
+    "color": "blue",
+    "desc": "Monster’s Irish portal offering job opportunities nationwide.",
+    "url": "https://www.monster.ie"
+  },
+  {
+    "name": "GradIreland",
+    "category": "internship",
+    "country": "ireland",
+    "color": "teal",
+    "desc": "Student and graduate-focused job and internship platform in Ireland.",
+    "url": "https://gradireland.com"
+  },
+  {
+    "name": "JobAlert.ie",
+    "category": "job",
+    "country": "ireland",
+    "color": "blue",
+    "desc": "Simple Irish job alert and listing platform.",
+    "url": "https://www.jobalert.ie"
+  },
+  {
+    "name": "JobsIreland.ie",
+    "category": "government",
+    "country": "ireland",
+    "color": "yellow",
+    "desc": "Official Irish government job portal managed by the Department of Social Protection.",
+    "url": "https://www.jobsireland.ie"
+  },
+  {
+    "name": "EURES Ireland",
+    "category": "government",
+    "country": "ireland",
+    "color": "yellow",
+    "desc": "EU job mobility portal featuring opportunities in Ireland.",
+    "url": "https://ec.europa.eu/eures"
+  },
+  {
+    "name": "TopLanguageJobs",
+    "category": "job",
+    "country": "ireland",
+    "color": "blue",
+    "desc": "Specialized portal for multilingual and language-specific job opportunities.",
+    "url": "https://www.toplanguagejobs.com"
+  },
+  {
+    "name": "Careerjet Ireland",
+    "category": "job",
+    "country": "ireland",
+    "color": "blue",
+    "desc": "Global job aggregator with a dedicated site for Ireland.",
+    "url": "https://www.careerjet.ie"
+  },
+  {
+    "name": "Jooble Ireland",
+    "category": "job",
+    "country": "ireland",
+    "color": "blue",
+    "desc": "Job search aggregator pulling listings from multiple sources in Ireland.",
+    "url": "https://ie.jooble.org"
+  },
+  {
+    "name": "Adzuna Ireland",
+    "category": "job",
+    "country": "ireland",
+    "color": "blue",
+    "desc": "Irish branch of the global Adzuna job search engine.",
+    "url": "https://www.adzuna.ie"
+  },
+  {
+    "name": "Michael Page Ireland",
+    "category": "job",
+    "country": "ireland",
+    "color": "blue",
+    "desc": "Recruitment agency providing professional and executive roles in Ireland.",
+    "url": "https://www.michaelpage.ie"
+  },
+  {
+    "name": "Hays Ireland",
+    "category": "job",
+    "country": "ireland",
+    "color": "blue",
+    "desc": "Global recruitment agency with a strong presence in Ireland.",
+    "url": "https://www.hays.ie"
+  },
+  {
+    "name": "Morgan McKinley Ireland",
+    "category": "job",
+    "country": "ireland",
+    "color": "blue",
+    "desc": "Irish recruitment agency specializing in professional and executive roles.",
+    "url": "https://www.morganmckinley.com/ie"
+  },
+  {
+    "name": "CPL Jobs Ireland",
+    "category": "job",
+    "country": "ireland",
+    "color": "blue",
+    "desc": "Large Irish recruitment agency covering multiple sectors.",
+    "url": "https://www.cpl.com/ie"
+  },
+  {
+    "name": "Sigmar Recruitment",
+    "category": "job",
+    "country": "ireland",
+    "color": "blue",
+    "desc": "Award-winning Irish recruitment agency with nationwide coverage.",
+    "url": "https://www.sigmarrecruitment.com"
+  },
+  {
+    "name": "FRS Recruitment",
+    "category": "job",
+    "country": "ireland",
+    "color": "blue",
+    "desc": "Irish recruitment agency offering jobs in multiple industries.",
+    "url": "https://www.frsrecruitment.com"
+  },
+  {
+    "name": "Manpower Ireland",
+    "category": "job",
+    "country": "ireland",
+    "color": "blue",
+    "desc": "Manpower recruitment and HR solutions across Ireland.",
+    "url": "https://www.manpower.ie"
+  },
+  {
+    "name": "Adecco Ireland",
+    "category": "job",
+    "country": "ireland",
+    "color": "blue",
+    "desc": "Adecco staffing and recruitment services in Ireland.",
+    "url": "https://www.adecco.ie"
+  },
+  {
+    "name": "Randstad Ireland",
+    "category": "job",
+    "country": "ireland",
+    "color": "blue",
+    "desc": "Randstad staffing and HR services in Ireland.",
+    "url": "https://www.randstad.ie"
+  },
+  {
+    "name": "AllJobs.co.il",
+    "category": "job",
+    "country": "israel",
+    "color": "blue",
+    "desc": "Israel’s largest and most popular job search platform.",
+    "url": "https://www.alljobs.co.il"
+  },
+  {
+    "name": "Drushim.co.il",
+    "category": "job",
+    "country": "israel",
+    "color": "blue",
+    "desc": "One of Israel’s leading job portals with nationwide listings.",
+    "url": "https://www.drushim.co.il"
+  },
+  {
+    "name": "JobMaster.co.il",
+    "category": "job",
+    "country": "israel",
+    "color": "blue",
+    "desc": "Major Israeli job portal with a wide range of opportunities.",
+    "url": "https://www.jobmaster.co.il"
+  },
+  {
+    "name": "Indeed Israel",
+    "category": "job",
+    "country": "israel",
+    "color": "blue",
+    "desc": "Localized version of Indeed for the Israeli market.",
+    "url": "https://il.indeed.com"
+  },
+  {
+    "name": "LinkedIn Israel Jobs",
+    "category": "job",
+    "country": "israel",
+    "color": "blue",
+    "desc": "Professional networking and job listings tailored to Israel.",
+    "url": "https://www.linkedin.com/jobs/israel"
+  },
+  {
+    "name": "Glassdoor Israel",
+    "category": "job",
+    "country": "israel",
+    "color": "blue",
+    "desc": "Glassdoor job listings, salaries, and reviews for companies in Israel.",
+    "url": "https://www.glassdoor.com/Job/israel-jobs-SRCH_IL.0,6_IN120.htm"
+  },
+  {
+    "name": "Ethosia",
+    "category": "tech",
+    "country": "israel",
+    "color": "pink",
+    "desc": "Recruitment agency and job portal specializing in high-tech jobs.",
+    "url": "https://www.ethosia.co.il"
+  },
+  {
+    "name": "GotFriends",
+    "category": "startup",
+    "country": "israel",
+    "color": "orange",
+    "desc": "Job portal focused on startups and tech companies in Israel.",
+    "url": "https://www.gotfriends.co.il"
+  },
+  {
+    "name": "Hi-Tech Jobs Israel",
+    "category": "tech",
+    "country": "israel",
+    "color": "pink",
+    "desc": "Specialized portal for IT and high-tech roles in Israel.",
+    "url": "https://www.hightechjobs.co.il"
+  },
+  {
+    "name": "Jobs-Israel.com",
+    "category": "job",
+    "country": "israel",
+    "color": "blue",
+    "desc": "Online job portal for various industries in Israel.",
+    "url": "https://www.jobs-israel.com"
+  },
+  {
+    "name": "Jobnet.co.il",
+    "category": "job",
+    "country": "israel",
+    "color": "blue",
+    "desc": "Israeli job site offering professional job opportunities.",
+    "url": "https://www.jobnet.co.il"
+  },
+  {
+    "name": "Nefesh B’Nefesh",
+    "category": "job",
+    "country": "israel",
+    "color": "blue",
+    "desc": "Portal providing job opportunities and support for new immigrants (Aliyah).",
+    "url": "https://www.nbn.org.il/job-board"
+  },
+  {
+    "name": "Taassia",
+    "category": "engineering",
+    "country": "israel",
+    "color": "purple",
+    "desc": "Job site specializing in Israel’s defense and industrial sector.",
+    "url": "https://www.taassia.com"
+  },
+  {
+    "name": "Gov.il Jobs",
+    "category": "government",
+    "country": "israel",
+    "color": "yellow",
+    "desc": "Official Israeli government job portal.",
+    "url": "https://www.gov.il/he/departments/jobs"
+  },
+  {
+    "name": "Careerjet Israel",
+    "category": "job",
+    "country": "israel",
+    "color": "blue",
+    "desc": "Global job search engine with a localized site for Israel.",
+    "url": "https://www.careerjet.co.il"
+  },
+  {
+    "name": "Jooble Israel",
+    "category": "job",
+    "country": "israel",
+    "color": "blue",
+    "desc": "Job aggregator pulling listings from multiple sources in Israel.",
+    "url": "https://il.jooble.org"
+  },
+  {
+    "name": "Adzuna Israel",
+    "category": "job",
+    "country": "israel",
+    "color": "blue",
+    "desc": "Israeli branch of the global Adzuna job search engine.",
+    "url": "https://www.adzuna.co.il"
+  },
+  {
+    "name": "Manpower Israel",
+    "category": "job",
+    "country": "israel",
+    "color": "blue",
+    "desc": "Manpower staffing and recruitment services in Israel.",
+    "url": "https://www.manpower.co.il"
+  },
+  {
+    "name": "Ethosia Executive Search",
+    "category": "executive",
+    "country": "israel",
+    "color": "orange",
+    "desc": "Ethosia’s specialized division for executive and senior-level recruitment.",
+    "url": "https://www.ethosia.co.il/executive"
+  },
+  {
+    "name": "InfoJobs.it",
+    "category": "job",
+    "country": "italy",
+    "color": "blue",
+    "desc": "One of the most popular job portals in Italy.",
+    "url": "https://www.infojobs.it"
+  },
+  {
+    "name": "Monster Italia",
+    "category": "job",
+    "country": "italy",
+    "color": "blue",
+    "desc": "Italian branch of Monster job search engine.",
+    "url": "https://www.monster.it"
+  },
+  {
+    "name": "Indeed Italy",
+    "category": "job",
+    "country": "italy",
+    "color": "blue",
+    "desc": "Localized version of Indeed for the Italian job market.",
+    "url": "https://it.indeed.com"
+  },
+  {
+    "name": "LinkedIn Italy Jobs",
+    "category": "job",
+    "country": "italy",
+    "color": "blue",
+    "desc": "Professional networking and job listings tailored to Italy.",
+    "url": "https://www.linkedin.com/jobs/italy"
+  },
+  {
+    "name": "Glassdoor Italy",
+    "category": "job",
+    "country": "italy",
+    "color": "blue",
+    "desc": "Glassdoor job listings, salaries, and reviews in Italy.",
+    "url": "https://www.glassdoor.com/Job/italy-jobs-SRCH_IL.0,5_IN120.htm"
+  },
+  {
+    "name": "Jobrapido",
+    "category": "job",
+    "country": "italy",
+    "color": "blue",
+    "desc": "Italian-founded global job aggregator with strong national presence.",
+    "url": "https://it.jobrapido.com"
+  },
+  {
+    "name": "TrovoLavoro (Corriere della Sera)",
+    "category": "job",
+    "country": "italy",
+    "color": "blue",
+    "desc": "Job portal managed by Corriere della Sera newspaper.",
+    "url": "https://trovolavoro.corriere.it"
+  },
+  {
+    "name": "TrovoLavoro Repubblica",
+    "category": "job",
+    "country": "italy",
+    "color": "blue",
+    "desc": "Job portal run by La Repubblica newspaper.",
+    "url": "https://lavoro.repubblica.it"
+  },
+  {
+    "name": "Subito.it Jobs",
+    "category": "job",
+    "country": "italy",
+    "color": "blue",
+    "desc": "Popular classifieds platform in Italy with a jobs section.",
+    "url": "https://www.subito.it/annunci-italia/offerte-lavoro"
+  },
+  {
+    "name": "Bakeca.it Jobs",
+    "category": "job",
+    "country": "italy",
+    "color": "blue",
+    "desc": "Italian classifieds website with job listings.",
+    "url": "https://www.bakeca.it/offerte-lavoro"
+  },
+  {
+    "name": "Cliccalavoro",
+    "category": "job",
+    "country": "italy",
+    "color": "blue",
+    "desc": "Italian job search site for multiple sectors.",
+    "url": "https://www.cliccalavoro.it"
+  },
+  {
+    "name": "Careerjet Italy",
+    "category": "job",
+    "country": "italy",
+    "color": "blue",
+    "desc": "Global job search engine with a localized portal for Italy.",
+    "url": "https://www.careerjet.it"
+  },
+  {
+    "name": "Jooble Italy",
+    "category": "job",
+    "country": "italy",
+    "color": "blue",
+    "desc": "Job search aggregator pulling listings from multiple sources in Italy.",
+    "url": "https://it.jooble.org"
+  },
+  {
+    "name": "Adzuna Italy",
+    "category": "job",
+    "country": "italy",
+    "color": "blue",
+    "desc": "Italian branch of Adzuna global job portal.",
+    "url": "https://www.adzuna.it"
+  },
+  {
+    "name": "Helplavoro.it",
+    "category": "job",
+    "country": "italy",
+    "color": "blue",
+    "desc": "Italian job board with listings across all sectors.",
+    "url": "https://www.helplavoro.it"
+  },
+  {
+    "name": "Lavoro.it",
+    "category": "job",
+    "country": "italy",
+    "color": "blue",
+    "desc": "Italian portal offering a wide range of job listings.",
+    "url": "https://www.lavoro.it"
+  },
+  {
+    "name": "Lavori.it",
+    "category": "job",
+    "country": "italy",
+    "color": "blue",
+    "desc": "Another Italian job site with multiple industry opportunities.",
+    "url": "https://www.lavori.it"
+  },
+  {
+    "name": "JobGratis.com",
+    "category": "job",
+    "country": "italy",
+    "color": "blue",
+    "desc": "Italian free job posting and search site.",
+    "url": "https://www.jobgratis.com"
+  },
+  {
+    "name": "Jobsora Italy",
+    "category": "job",
+    "country": "italy",
+    "color": "blue",
+    "desc": "Job aggregator with a localized portal for Italy.",
+    "url": "https://it.jobsora.com"
+  },
+  {
+    "name": "EURES Italy",
+    "category": "government",
+    "country": "italy",
+    "color": "yellow",
+    "desc": "EU-wide job mobility portal featuring opportunities in Italy.",
+    "url": "https://ec.europa.eu/eures"
+  },
+  {
+    "name": "ClicLavoro",
+    "category": "government",
+    "country": "italy",
+    "color": "yellow",
+    "desc": "Official Italian Ministry of Labour job portal.",
+    "url": "https://www.cliclavoro.gov.it"
+  },
+  {
+    "name": "Porta Futuro",
+    "category": "government",
+    "country": "italy",
+    "color": "yellow",
+    "desc": "Lazio region’s official job service platform.",
+    "url": "https://www.portafuturo.it"
+  },
+  {
+    "name": "GiGroup Italy",
+    "category": "job",
+    "country": "italy",
+    "color": "blue",
+    "desc": "One of Italy’s largest staffing and recruitment agencies.",
+    "url": "https://www.gigroup.it"
+  },
+  {
+    "name": "Manpower Italy",
+    "category": "job",
+    "country": "italy",
+    "color": "blue",
+    "desc": "Manpower recruitment and HR services across Italy.",
+    "url": "https://www.manpower.it"
+  },
+  {
+    "name": "Randstad Italy",
+    "category": "job",
+    "country": "italy",
+    "color": "blue",
+    "desc": "Randstad staffing and HR services in Italy.",
+    "url": "https://www.randstad.it"
+  },
+  {
+    "name": "Adecco Italy",
+    "category": "job",
+    "country": "italy",
+    "color": "blue",
+    "desc": "Adecco staffing and recruitment agency in Italy.",
+    "url": "https://www.adecco.it"
+  },
+  {
+    "name": "Michael Page Italy",
+    "category": "job",
+    "country": "italy",
+    "color": "blue",
+    "desc": "Recruitment agency providing professional and executive jobs in Italy.",
+    "url": "https://www.michaelpage.it"
+  },
+  {
+    "name": "Hays Italy",
+    "category": "job",
+    "country": "italy",
+    "color": "blue",
+    "desc": "Global recruitment agency with offices in Italy.",
+    "url": "https://www.hays.it"
+  },
+  {
+    "name": "Kelly Services Italy",
+    "category": "job",
+    "country": "italy",
+    "color": "blue",
+    "desc": "International recruitment and staffing agency with presence in Italy.",
+    "url": "https://www.kellyservices.it"
+  },
+  {
+    "name": "Rikunabi",
+    "category": "job",
+    "country": "japan",
+    "color": "blue",
+    "desc": "One of Japan’s largest job portals operated by Recruit.",
+    "url": "https://job.rikunabi.com"
+  },
+  {
+    "name": "Mynavi Jobs",
+    "category": "job",
+    "country": "japan",
+    "color": "blue",
+    "desc": "Major Japanese job portal covering all industries.",
+    "url": "https://job.mynavi.jp"
+  },
+  {
+    "name": "Daijob",
+    "category": "job",
+    "country": "japan",
+    "color": "blue",
+    "desc": "Job site specializing in bilingual and international professionals.",
+    "url": "https://www.daijob.com"
+  },
+  {
+    "name": "GaijinPot Jobs",
+    "category": "job",
+    "country": "japan",
+    "color": "blue",
+    "desc": "Popular job site for foreigners seeking work in Japan.",
+    "url": "https://jobs.gaijinpot.com"
+  },
+  {
+    "name": "Jobs in Japan",
+    "category": "job",
+    "country": "japan",
+    "color": "blue",
+    "desc": "English-language job site offering roles across Japan.",
+    "url": "https://jobsinjapan.com"
+  },
+  {
+    "name": "CareerCross",
+    "category": "job",
+    "country": "japan",
+    "color": "blue",
+    "desc": "Specialized portal for bilingual professionals in Japan.",
+    "url": "https://www.careercross.com"
+  },
+  {
+    "name": "JobsDB Japan",
+    "category": "job",
+    "country": "japan",
+    "color": "blue",
+    "desc": "Regional job portal with a localized version for Japan.",
+    "url": "https://jp.jobsdb.com"
+  },
+  {
+    "name": "TownWork",
+    "category": "job",
+    "country": "japan",
+    "color": "blue",
+    "desc": "Recruit’s job platform for part-time and casual jobs in Japan.",
+    "url": "https://townwork.net"
+  },
+  {
+    "name": "Baitoru",
+    "category": "gig",
+    "country": "japan",
+    "color": "green",
+    "desc": "Leading site for part-time and short-term jobs in Japan.",
+    "url": "https://www.baitoru.com"
+  },
+  {
+    "name": "Work Japan",
+    "category": "gig",
+    "country": "japan",
+    "color": "green",
+    "desc": "App-based job search platform targeting foreigners in Japan.",
+    "url": "https://workjapan.jp"
+  },
+  {
+    "name": "JapanDev",
+    "category": "tech",
+    "country": "japan",
+    "color": "pink",
+    "desc": "Specialized platform for remote-friendly and tech jobs in Japan.",
+    "url": "https://japan-dev.com"
+  },
+  {
+    "name": "Wantedly",
+    "category": "startup",
+    "country": "japan",
+    "color": "orange",
+    "desc": "Startup-focused platform popular in Japan for creative and IT jobs.",
+    "url": "https://www.wantedly.com"
+  },
+  {
+    "name": "Green Japan",
+    "category": "tech",
+    "country": "japan",
+    "color": "pink",
+    "desc": "Tech and startup-focused job platform in Japan.",
+    "url": "https://www.green-japan.com"
+  },
+  {
+    "name": "Indeed Japan",
+    "category": "job",
+    "country": "japan",
+    "color": "blue",
+    "desc": "Localized version of Indeed for the Japanese job market.",
+    "url": "https://jp.indeed.com"
+  },
+  {
+    "name": "LinkedIn Japan Jobs",
+    "category": "job",
+    "country": "japan",
+    "color": "blue",
+    "desc": "Professional networking and job listings tailored to Japan.",
+    "url": "https://www.linkedin.com/jobs/japan"
+  },
+  {
+    "name": "Glassdoor Japan",
+    "category": "job",
+    "country": "japan",
+    "color": "blue",
+    "desc": "Glassdoor’s localized portal for jobs and company reviews in Japan.",
+    "url": "https://www.glassdoor.com/Job/japan-jobs-SRCH_IL.0,5_IN125.htm"
+  },
+  {
+    "name": "Monster Japan",
+    "category": "job",
+    "country": "japan",
+    "color": "blue",
+    "desc": "Monster’s job board for Japanese job seekers.",
+    "url": "https://www.monster.co.jp"
+  },
+  {
+    "name": "Careerjet Japan",
+    "category": "job",
+    "country": "japan",
+    "color": "blue",
+    "desc": "Global job search engine with a localized portal for Japan.",
+    "url": "https://www.careerjet.jp"
+  },
+  {
+    "name": "Jooble Japan",
+    "category": "job",
+    "country": "japan",
+    "color": "blue",
+    "desc": "Job aggregator pulling listings from multiple sites in Japan.",
+    "url": "https://jp.jooble.org"
+  },
+  {
+    "name": "Adzuna Japan",
+    "category": "job",
+    "country": "japan",
+    "color": "blue",
+    "desc": "Japanese branch of the global Adzuna job search engine.",
+    "url": "https://www.adzuna.jp"
+  },
+  {
+    "name": "Hello Work",
+    "category": "government",
+    "country": "japan",
+    "color": "yellow",
+    "desc": "Japan’s official government-run employment service.",
+    "url": "https://www.hellowork.mhlw.go.jp"
+  },
+  {
+    "name": "JET Programme",
+    "category": "education",
+    "country": "japan",
+    "color": "purple",
+    "desc": "Japanese government program hiring foreign teachers and coordinators.",
+    "url": "https://jetprogramme.org"
+  },
+  {
+    "name": "Ohayo Sensei",
+    "category": "education",
+    "country": "japan",
+    "color": "purple",
+    "desc": "Job listing newsletter for English teaching positions in Japan.",
+    "url": "https://www.ohayosensei.com"
+  },
+  {
+    "name": "Interac",
+    "category": "education",
+    "country": "japan",
+    "color": "purple",
+    "desc": "Leading provider of Assistant Language Teachers (ALTs) in Japan.",
+    "url": "https://interacnetwork.com"
+  },
+  {
+    "name": "Michael Page Japan",
+    "category": "job",
+    "country": "japan",
+    "color": "blue",
+    "desc": "Recruitment agency offering professional roles across Japan.",
+    "url": "https://www.michaelpage.co.jp"
+  },
+  {
+    "name": "Hays Japan",
+    "category": "job",
+    "country": "japan",
+    "color": "blue",
+    "desc": "Global recruitment agency with a strong presence in Japan.",
+    "url": "https://www.hays.co.jp"
+  },
+  {
+    "name": "Robert Walters Japan",
+    "category": "job",
+    "country": "japan",
+    "color": "blue",
+    "desc": "Specialized recruitment agency for bilingual professionals in Japan.",
+    "url": "https://www.robertwalters.co.jp"
+  },
+  {
+    "name": "Randstad Japan",
+    "category": "job",
+    "country": "japan",
+    "color": "blue",
+    "desc": "Randstad staffing and HR services in Japan.",
+    "url": "https://www.randstad.co.jp"
+  },
+  {
+    "name": "Adecco Japan",
+    "category": "job",
+    "country": "japan",
+    "color": "blue",
+    "desc": "Adecco staffing and recruitment agency in Japan.",
+    "url": "https://www.adecco.co.jp"
+  },
+  {
+    "name": "Manpower Japan",
+    "category": "job",
+    "country": "japan",
+    "color": "blue",
+    "desc": "Manpower recruitment and HR services in Japan.",
+    "url": "https://www.manpowergroup.jp"
+  },
+  {
+    "name": "BrighterMonday Kenya",
+    "category": "job",
+    "country": "kenya",
+    "color": "blue",
+    "desc": "Kenya’s largest job portal with thousands of listings across industries.",
+    "url": "https://www.brightermonday.co.ke"
+  },
+  {
+    "name": "MyJobMag Kenya",
+    "category": "job",
+    "country": "kenya",
+    "color": "blue",
+    "desc": "Popular portal with job opportunities, internships, and career advice.",
+    "url": "https://www.myjobmag.co.ke"
+  },
+  {
+    "name": "Fuzu",
+    "category": "job",
+    "country": "kenya",
+    "color": "blue",
+    "desc": "Career development and job platform widely used in East Africa.",
+    "url": "https://www.fuzu.com"
+  },
+  {
+    "name": "JobWeb Kenya",
+    "category": "job",
+    "country": "kenya",
+    "color": "blue",
+    "desc": "Local job portal offering vacancies across multiple sectors.",
+    "url": "https://jobwebkenya.com"
+  },
+  {
+    "name": "Career Point Kenya",
+    "category": "job",
+    "country": "kenya",
+    "color": "blue",
+    "desc": "Kenya-focused job site with career advice and job listings.",
+    "url": "https://www.careerpointkenya.co.ke"
+  },
+  {
+    "name": "Corporate Staffing Services",
+    "category": "job",
+    "country": "kenya",
+    "color": "blue",
+    "desc": "Recruitment agency and job portal offering professional roles in Kenya.",
+    "url": "https://www.corporatestaffing.co.ke"
+  },
+  {
+    "name": "KenyaMoja Jobs",
+    "category": "job",
+    "country": "kenya",
+    "color": "blue",
+    "desc": "Jobs section of KenyaMoja classifieds and news platform.",
+    "url": "https://jobs.kenyamoja.com"
+  },
+  {
+    "name": "JobinKenya.com",
+    "category": "job",
+    "country": "kenya",
+    "color": "blue",
+    "desc": "Kenya-specific job portal covering multiple sectors.",
+    "url": "https://jobinkenya.com"
+  },
+  {
+    "name": "Kenya Jobs Center",
+    "category": "job",
+    "country": "kenya",
+    "color": "blue",
+    "desc": "Kenya-focused job board with daily job updates.",
+    "url": "https://kenyajobscenter.com"
+  },
+  {
+    "name": "Kenya Careers",
+    "category": "job",
+    "country": "kenya",
+    "color": "blue",
+    "desc": "Job site featuring employment opportunities across Kenya.",
+    "url": "https://kenyacareers.com"
+  },
+  {
+    "name": "LinkedIn Kenya Jobs",
+    "category": "job",
+    "country": "kenya",
+    "color": "blue",
+    "desc": "Professional networking and job listings tailored to Kenya.",
+    "url": "https://www.linkedin.com/jobs/kenya"
+  },
+  {
+    "name": "Glassdoor Kenya",
+    "category": "job",
+    "country": "kenya",
+    "color": "blue",
+    "desc": "Glassdoor job listings, salaries, and reviews for Kenyan companies.",
+    "url": "https://www.glassdoor.com/Job/kenya-jobs-SRCH_IL.0,5_IN111.htm"
+  },
+  {
+    "name": "Indeed Kenya",
+    "category": "job",
+    "country": "kenya",
+    "color": "blue",
+    "desc": "Localized version of Indeed for the Kenyan job market.",
+    "url": "https://www.indeed.com/q-Kenya-jobs.html"
+  },
+  {
+    "name": "Careerjet Kenya",
+    "category": "job",
+    "country": "kenya",
+    "color": "blue",
+    "desc": "Global job search engine with a Kenyan portal.",
+    "url": "https://www.careerjet.co.ke"
+  },
+  {
+    "name": "Jooble Kenya",
+    "category": "job",
+    "country": "kenya",
+    "color": "blue",
+    "desc": "Job aggregator pulling listings from multiple sources in Kenya.",
+    "url": "https://ke.jooble.org"
+  },
+  {
+    "name": "JobsEye Kenya",
+    "category": "job",
+    "country": "kenya",
+    "color": "blue",
+    "desc": "Local Kenyan job search platform.",
+    "url": "https://www.jobseye.co.ke"
+  },
+  {
+    "name": "BestJobs Kenya",
+    "category": "job",
+    "country": "kenya",
+    "color": "blue",
+    "desc": "Kenya-focused branch of the BestJobs global portal.",
+    "url": "https://www.bestjobskenya.com"
+  },
+  {
+    "name": "UNJobs (Kenya listings)",
+    "category": "ngo",
+    "country": "kenya",
+    "color": "green",
+    "desc": "UN jobs platform with postings specific to Kenya.",
+    "url": "https://unjobs.org/duty_stations/kenya"
+  },
+  {
+    "name": "NGOJobsAfrica (Kenya listings)",
+    "category": "ngo",
+    "country": "kenya",
+    "color": "green",
+    "desc": "Platform for NGO and non-profit job opportunities across Africa, including Kenya.",
+    "url": "https://www.ngojobsinafrica.com/country/kenya"
+  },
+  {
+    "name": "Public Service Commission Kenya",
+    "category": "government",
+    "country": "kenya",
+    "color": "yellow",
+    "desc": "Official government portal for public service job opportunities in Kenya.",
+    "url": "https://www.publicservice.go.ke"
+  },
+  {
+    "name": "TSC Kenya",
+    "category": "education",
+    "country": "kenya",
+    "color": "purple",
+    "desc": "Teachers Service Commission – official portal for teaching jobs in Kenya.",
+    "url": "https://www.tsc.go.ke"
+  },
+  {
+    "name": "Summit Recruitment & Search",
+    "category": "job",
+    "country": "kenya",
+    "color": "blue",
+    "desc": "Leading recruitment agency in Kenya providing staffing solutions.",
+    "url": "https://www.summitrecruitment-search.com"
+  },
+  {
+    "name": "Flexi Personnel",
+    "category": "job",
+    "country": "kenya",
+    "color": "blue",
+    "desc": "Recruitment and HR consultancy offering jobs across Kenya.",
+    "url": "https://flexi-personnel.com"
+  },
+  {
+    "name": "Manpower Kenya",
+    "category": "job",
+    "country": "kenya",
+    "color": "blue",
+    "desc": "Manpower staffing and recruitment agency with operations in Kenya.",
+    "url": "https://www.manpowergroup.com"
+  },
+  {
+    "name": "Bayt.com Kuwait",
+    "category": "job",
+    "country": "kuwait",
+    "color": "blue",
+    "desc": "Regional leader in job postings with a large section for Kuwait.",
+    "url": "https://www.bayt.com/en/kuwait/jobs"
+  },
+  {
+    "name": "GulfTalent Kuwait",
+    "category": "job",
+    "country": "kuwait",
+    "color": "blue",
+    "desc": "Popular Middle East job portal with Kuwait-specific opportunities.",
+    "url": "https://www.gulftalent.com/kuwait/jobs"
+  },
+  {
+    "name": "Naukrigulf Kuwait",
+    "category": "job",
+    "country": "kuwait",
+    "color": "blue",
+    "desc": "Job portal for Gulf countries with many listings for Kuwait.",
+    "url": "https://www.naukrigulf.com/kuwait-jobs"
+  },
+  {
+    "name": "Monster Gulf Kuwait",
+    "category": "job",
+    "country": "kuwait",
+    "color": "blue",
+    "desc": "Monster’s Gulf portal with a dedicated section for Kuwait.",
+    "url": "https://www.monstergulf.com/kuwait-jobs"
+  },
+  {
+    "name": "Indeed Kuwait",
+    "category": "job",
+    "country": "kuwait",
+    "color": "blue",
+    "desc": "Localized version of Indeed for Kuwait.",
+    "url": "https://kw.indeed.com"
+  },
+  {
+    "name": "LinkedIn Kuwait Jobs",
+    "category": "job",
+    "country": "kuwait",
+    "color": "blue",
+    "desc": "Professional networking and job opportunities in Kuwait.",
+    "url": "https://www.linkedin.com/jobs/kuwait"
+  },
+  {
+    "name": "Glassdoor Kuwait",
+    "category": "job",
+    "country": "kuwait",
+    "color": "blue",
+    "desc": "Glassdoor job listings, reviews, and salaries in Kuwait.",
+    "url": "https://www.glassdoor.com/Job/kuwait-jobs-SRCH_IL.0,6_IN133.htm"
+  },
+  {
+    "name": "Careerjet Kuwait",
+    "category": "job",
+    "country": "kuwait",
+    "color": "blue",
+    "desc": "Global job search engine with a localized portal for Kuwait.",
+    "url": "https://www.careerjet.com.kw"
+  },
+  {
+    "name": "Jooble Kuwait",
+    "category": "job",
+    "country": "kuwait",
+    "color": "blue",
+    "desc": "Job aggregator pulling listings from multiple sources in Kuwait.",
+    "url": "https://kw.jooble.org"
+  },
+  {
+    "name": "Adzuna Kuwait",
+    "category": "job",
+    "country": "kuwait",
+    "color": "blue",
+    "desc": "Kuwaiti branch of the global Adzuna job search engine.",
+    "url": "https://www.adzuna.com.kw"
+  },
+  {
+    "name": "Kuwait Jobs Today",
+    "category": "job",
+    "country": "kuwait",
+    "color": "blue",
+    "desc": "Local Kuwaiti portal with updated daily job listings.",
+    "url": "https://kuwaitjobstoday.com"
+  },
+  {
+    "name": "Kuwait Times Classifieds",
+    "category": "job",
+    "country": "kuwait",
+    "color": "blue",
+    "desc": "Jobs section from Kuwait Times classifieds.",
+    "url": "https://www.kuwaittimes.com/classifieds"
+  },
+  {
+    "name": "1 Kuwait Jobs",
+    "category": "job",
+    "country": "kuwait",
+    "color": "blue",
+    "desc": "Local job classifieds platform in Kuwait.",
+    "url": "https://www.1kuwaitjobs.com"
+  },
+  {
+    "name": "Gotogulf Kuwait",
+    "category": "job",
+    "country": "kuwait",
+    "color": "blue",
+    "desc": "Regional Gulf job site with strong presence in Kuwait.",
+    "url": "https://www.gotogulf.com/jobs-in-kuwait"
+  },
+  {
+    "name": "Akhtaboot Kuwait",
+    "category": "job",
+    "country": "kuwait",
+    "color": "blue",
+    "desc": "Middle East job portal featuring opportunities in Kuwait.",
+    "url": "https://www.akhtaboot.com/en/kuwait"
+  },
+  {
+    "name": "Michael Page Middle East (Kuwait)",
+    "category": "job",
+    "country": "kuwait",
+    "color": "blue",
+    "desc": "Recruitment agency providing professional jobs in Kuwait.",
+    "url": "https://www.michaelpage.ae/jobs-in-kuwait"
+  },
+  {
+    "name": "Hays Kuwait",
+    "category": "job",
+    "country": "kuwait",
+    "color": "blue",
+    "desc": "Global recruitment agency offering jobs in Kuwait.",
+    "url": "https://www.hays.ae/jobs-in-kuwait"
+  },
+  {
+    "name": "Robert Half Middle East (Kuwait)",
+    "category": "job",
+    "country": "kuwait",
+    "color": "blue",
+    "desc": "Recruitment agency specializing in finance and business roles in Kuwait.",
+    "url": "https://www.roberthalf.ae/kuwait"
+  },
+  {
+    "name": "Adecco Middle East (Kuwait)",
+    "category": "job",
+    "country": "kuwait",
+    "color": "blue",
+    "desc": "Adecco staffing and recruitment services covering Kuwait.",
+    "url": "https://www.adecco.ae/jobs-in-kuwait"
+  },
+  {
+    "name": "ManpowerGroup Middle East (Kuwait)",
+    "category": "job",
+    "country": "kuwait",
+    "color": "blue",
+    "desc": "Manpower recruitment and HR services across Kuwait.",
+    "url": "https://www.manpowergroup.ae/jobs-in-kuwait"
+  },
+  {
+    "name": "CV.lv",
+    "category": "job",
+    "country": "latvia",
+    "color": "blue",
+    "desc": "The largest and most popular job portal in Latvia.",
+    "url": "https://www.cv.lv"
+  },
+  {
+    "name": "CV-Online Latvia",
+    "category": "job",
+    "country": "latvia",
+    "color": "blue",
+    "desc": "Major Latvian job portal with a wide variety of listings.",
+    "url": "https://cv.lv"
+  },
+  {
+    "name": "Prakse.lv",
+    "category": "internship",
+    "country": "latvia",
+    "color": "teal",
+    "desc": "Platform for internships, student jobs, and early career opportunities.",
+    "url": "https://www.prakse.lv"
+  },
+  {
+    "name": "Visidarbi.lv",
+    "category": "job",
+    "country": "latvia",
+    "color": "blue",
+    "desc": "Popular Latvian job site featuring listings across industries.",
+    "url": "https://www.visidarbi.lv"
+  },
+  {
+    "name": "Indeed Latvia",
+    "category": "job",
+    "country": "latvia",
+    "color": "blue",
+    "desc": "Localized version of Indeed for the Latvian market.",
+    "url": "https://lv.indeed.com"
+  },
+  {
+    "name": "LinkedIn Latvia Jobs",
+    "category": "job",
+    "country": "latvia",
+    "color": "blue",
+    "desc": "Professional networking and job listings tailored to Latvia.",
+    "url": "https://www.linkedin.com/jobs/latvia"
+  },
+  {
+    "name": "Glassdoor Latvia",
+    "category": "job",
+    "country": "latvia",
+    "color": "blue",
+    "desc": "Glassdoor’s localized listings and company reviews in Latvia.",
+    "url": "https://www.glassdoor.com/Job/latvia-jobs-SRCH_IL.0,6_IN124.htm"
+  },
+  {
+    "name": "CVMarket.lv",
+    "category": "job",
+    "country": "latvia",
+    "color": "blue",
+    "desc": "Well-known Latvian job portal covering multiple industries.",
+    "url": "https://www.cvmarket.lv"
+  },
+  {
+    "name": "NVA (State Employment Agency of Latvia)",
+    "category": "government",
+    "country": "latvia",
+    "color": "yellow",
+    "desc": "Official Latvian government employment agency providing job listings and support.",
+    "url": "https://www.nva.gov.lv"
+  },
+  {
+    "name": "EURES Latvia",
+    "category": "government",
+    "country": "latvia",
+    "color": "yellow",
+    "desc": "EU-wide job mobility portal featuring opportunities in Latvia.",
+    "url": "https://ec.europa.eu/eures"
+  },
+  {
+    "name": "Careerjet Latvia",
+    "category": "job",
+    "country": "latvia",
+    "color": "blue",
+    "desc": "Global job search engine with a dedicated Latvian portal.",
+    "url": "https://www.careerjet.lv"
+  },
+  {
+    "name": "Jooble Latvia",
+    "category": "job",
+    "country": "latvia",
+    "color": "blue",
+    "desc": "Job aggregator pulling listings from multiple portals in Latvia.",
+    "url": "https://lv.jooble.org"
+  },
+  {
+    "name": "Adzuna Latvia",
+    "category": "job",
+    "country": "latvia",
+    "color": "blue",
+    "desc": "Latvian branch of the global Adzuna job portal.",
+    "url": "https://www.adzuna.lv"
+  },
+  {
+    "name": "CVBankas.lv",
+    "category": "job",
+    "country": "latvia",
+    "color": "blue",
+    "desc": "Latvian job board with listings across industries.",
+    "url": "https://www.cvbankas.lv"
+  },
+  {
+    "name": "CV-Online Recruitment",
+    "category": "job",
+    "country": "latvia",
+    "color": "blue",
+    "desc": "Recruitment agency offering professional staffing solutions in Latvia.",
+    "url": "https://www.cvonline.lv"
+  },
+  {
+    "name": "Manpower Latvia",
+    "category": "job",
+    "country": "latvia",
+    "color": "blue",
+    "desc": "Local branch of Manpower providing recruitment and HR services.",
+    "url": "https://www.manpower.lv"
+  },
+  {
+    "name": "CV-Online Headhunting",
+    "category": "executive",
+    "country": "latvia",
+    "color": "orange",
+    "desc": "Executive search and headhunting services in Latvia.",
+    "url": "https://www.cvonline.lv/headhunting"
+  },
+  {
+    "name": "WorkingDay Latvia",
+    "category": "job",
+    "country": "latvia",
+    "color": "blue",
+    "desc": "Recruitment and staffing agency in Latvia.",
+    "url": "https://www.workingday.lv"
+  },
+  {
+    "name": "Amrop Latvia",
+    "category": "executive",
+    "country": "latvia",
+    "color": "orange",
+    "desc": "Executive search firm specializing in leadership roles in Latvia.",
+    "url": "https://www.amrop.lv"
+  },
+  {
+    "name": "Bayt.com Lebanon",
+    "category": "job",
+    "country": "lebanon",
+    "color": "blue",
+    "desc": "Regional leader in job postings with a large section for Lebanon.",
+    "url": "https://www.bayt.com/en/lebanon/jobs"
+  },
+  {
+    "name": "GulfTalent Lebanon",
+    "category": "job",
+    "country": "lebanon",
+    "color": "blue",
+    "desc": "Popular Middle East job portal with Lebanon-specific opportunities.",
+    "url": "https://www.gulftalent.com/lebanon/jobs"
+  },
+  {
+    "name": "Naukrigulf Lebanon",
+    "category": "job",
+    "country": "lebanon",
+    "color": "blue",
+    "desc": "Job portal for Gulf and MENA countries with many listings for Lebanon.",
+    "url": "https://www.naukrigulf.com/lebanon-jobs"
+  },
+  {
+    "name": "Akhtaboot Lebanon",
+    "category": "job",
+    "country": "lebanon",
+    "color": "blue",
+    "desc": "MENA-focused job portal featuring opportunities in Lebanon.",
+    "url": "https://www.akhtaboot.com/en/lebanon"
+  },
+  {
+    "name": "Indeed Lebanon",
+    "category": "job",
+    "country": "lebanon",
+    "color": "blue",
+    "desc": "Localized version of Indeed for the Lebanese market.",
+    "url": "https://lb.indeed.com"
+  },
+  {
+    "name": "LinkedIn Lebanon Jobs",
+    "category": "job",
+    "country": "lebanon",
+    "color": "blue",
+    "desc": "Professional networking and job opportunities in Lebanon.",
+    "url": "https://www.linkedin.com/jobs/lebanon"
+  },
+  {
+    "name": "Glassdoor Lebanon",
+    "category": "job",
+    "country": "lebanon",
+    "color": "blue",
+    "desc": "Glassdoor job listings, reviews, and salaries in Lebanon.",
+    "url": "https://www.glassdoor.com/Job/lebanon-jobs-SRCH_IL.0,7_IN119.htm"
+  },
+  {
+    "name": "Careerjet Lebanon",
+    "category": "job",
+    "country": "lebanon",
+    "color": "blue",
+    "desc": "Global job search engine with a dedicated portal for Lebanon.",
+    "url": "https://www.careerjet.com.lb"
+  },
+  {
+    "name": "Jooble Lebanon",
+    "category": "job",
+    "country": "lebanon",
+    "color": "blue",
+    "desc": "Job aggregator pulling listings from multiple sources in Lebanon.",
+    "url": "https://lb.jooble.org"
+  },
+  {
+    "name": "Adzuna Lebanon",
+    "category": "job",
+    "country": "lebanon",
+    "color": "blue",
+    "desc": "Lebanese branch of the global Adzuna job portal.",
+    "url": "https://www.adzuna.com.lb"
+  },
+  {
+    "name": "Laimoon Jobs Lebanon",
+    "category": "job",
+    "country": "lebanon",
+    "color": "blue",
+    "desc": "Regional job search portal featuring opportunities in Lebanon.",
+    "url": "https://jobs.laimoon.com/lebanon"
+  },
+  {
+    "name": "HireLebanese.com",
+    "category": "job",
+    "country": "lebanon",
+    "color": "blue",
+    "desc": "Dedicated job portal for Lebanese professionals worldwide.",
+    "url": "https://www.hirelebanese.com"
+  },
+  {
+    "name": "Forasna Lebanon",
+    "category": "job",
+    "country": "lebanon",
+    "color": "blue",
+    "desc": "MENA-focused job portal listing opportunities in Lebanon.",
+    "url": "https://forasna.com"
+  },
+  {
+    "name": "Michael Page Middle East (Lebanon)",
+    "category": "job",
+    "country": "lebanon",
+    "color": "blue",
+    "desc": "Recruitment agency providing professional jobs in Lebanon.",
+    "url": "https://www.michaelpage.ae/jobs-in-lebanon"
+  },
+  {
+    "name": "Hays Middle East (Lebanon)",
+    "category": "job",
+    "country": "lebanon",
+    "color": "blue",
+    "desc": "Global recruitment agency offering jobs in Lebanon.",
+    "url": "https://www.hays.ae/jobs-in-lebanon"
+  },
+  {
+    "name": "Robert Half Middle East (Lebanon)",
+    "category": "job",
+    "country": "lebanon",
+    "color": "blue",
+    "desc": "Recruitment agency specializing in finance and business roles in Lebanon.",
+    "url": "https://www.roberthalf.ae/lebanon"
+  },
+  {
+    "name": "Adecco Middle East (Lebanon)",
+    "category": "job",
+    "country": "lebanon",
+    "color": "blue",
+    "desc": "Adecco staffing and recruitment services covering Lebanon.",
+    "url": "https://www.adecco.ae/jobs-in-lebanon"
+  },
+  {
+    "name": "ManpowerGroup Middle East (Lebanon)",
+    "category": "job",
+    "country": "lebanon",
+    "color": "blue",
+    "desc": "Manpower recruitment and HR services across Lebanon.",
+    "url": "https://www.manpowergroup.ae/jobs-in-lebanon"
+  },
+   {
+    "name": "CVbankas.lt",
+    "category": "job",
+    "country": "lithuania",
+    "color": "blue",
+    "desc": "The most popular and largest job portal in Lithuania.",
+    "url": "https://www.cvbankas.lt"
+  },
+  {
+    "name": "CV-Online Lithuania",
+    "category": "job",
+    "country": "lithuania",
+    "color": "blue",
+    "desc": "Well-established Lithuanian job portal with broad industry coverage.",
+    "url": "https://www.cvonline.lt"
+  },
+  {
+    "name": "CvMarket.lt",
+    "category": "job",
+    "country": "lithuania",
+    "color": "blue",
+    "desc": "Popular job site in Lithuania featuring a variety of opportunities.",
+    "url": "https://www.cvmarket.lt"
+  },
+  {
+    "name": "Cv.lt",
+    "category": "job",
+    "country": "lithuania",
+    "color": "blue",
+    "desc": "Lithuanian job portal for professionals and fresh graduates.",
+    "url": "https://www.cv.lt"
+  },
+  {
+    "name": "Cvzona.lt",
+    "category": "job",
+    "country": "lithuania",
+    "color": "blue",
+    "desc": "Local Lithuanian job board with diverse listings.",
+    "url": "https://www.cvzona.lt"
+  },
+  {
+    "name": "Cvme.lt",
+    "category": "job",
+    "country": "lithuania",
+    "color": "blue",
+    "desc": "Lithuanian portal offering career opportunities across sectors.",
+    "url": "https://www.cvme.lt"
+  },
+  {
+    "name": "Darbo.lt",
+    "category": "job",
+    "country": "lithuania",
+    "color": "blue",
+    "desc": "Local Lithuanian job site with extensive postings.",
+    "url": "https://www.darbo.lt"
+  },
+  {
+    "name": "Dirba.lt",
+    "category": "job",
+    "country": "lithuania",
+    "color": "blue",
+    "desc": "Lithuanian platform featuring daily job listings.",
+    "url": "https://www.dirba.lt"
+  },
+  {
+    "name": "Indeed Lithuania",
+    "category": "job",
+    "country": "lithuania",
+    "color": "blue",
+    "desc": "Localized version of Indeed for the Lithuanian market.",
+    "url": "https://lt.indeed.com"
+  },
+  {
+    "name": "LinkedIn Lithuania Jobs",
+    "category": "job",
+    "country": "lithuania",
+    "color": "blue",
+    "desc": "Professional networking and job listings tailored to Lithuania.",
+    "url": "https://www.linkedin.com/jobs/lithuania"
+  },
+  {
+    "name": "Glassdoor Lithuania",
+    "category": "job",
+    "country": "lithuania",
+    "color": "blue",
+    "desc": "Glassdoor job listings, reviews, and salaries in Lithuania.",
+    "url": "https://www.glassdoor.com/Job/lithuania-jobs-SRCH_IL.0,9_IN142.htm"
+  },
+  {
+    "name": "Careerjet Lithuania",
+    "category": "job",
+    "country": "lithuania",
+    "color": "blue",
+    "desc": "Global job search engine with a localized portal for Lithuania.",
+    "url": "https://www.careerjet.lt"
+  },
+  {
+    "name": "Jooble Lithuania",
+    "category": "job",
+    "country": "lithuania",
+    "color": "blue",
+    "desc": "Job aggregator pulling listings from multiple portals in Lithuania.",
+    "url": "https://lt.jooble.org"
+  },
+  {
+    "name": "Adzuna Lithuania",
+    "category": "job",
+    "country": "lithuania",
+    "color": "blue",
+    "desc": "Lithuanian branch of the global Adzuna job portal.",
+    "url": "https://www.adzuna.lt"
+  },
+  {
+    "name": "CVOnline Recruitment",
+    "category": "job",
+    "country": "lithuania",
+    "color": "blue",
+    "desc": "Recruitment agency offering professional staffing services in Lithuania.",
+    "url": "https://www.cvonline.lt/recruitment"
+  },
+  {
+    "name": "CVBankas Headhunting",
+    "category": "executive",
+    "country": "lithuania",
+    "color": "orange",
+    "desc": "Executive headhunting and recruitment services in Lithuania.",
+    "url": "https://www.cvbankas.lt/headhunting"
+  },
+  {
+    "name": "Manpower Lithuania",
+    "category": "job",
+    "country": "lithuania",
+    "color": "blue",
+    "desc": "Manpower staffing and recruitment services across Lithuania.",
+    "url": "https://www.manpowergroup.lt"
+  },
+  {
+    "name": "Simplika",
+    "category": "job",
+    "country": "lithuania",
+    "color": "blue",
+    "desc": "Recruitment and staffing company operating in Lithuania and the Baltics.",
+    "url": "https://www.simplika.lt"
+  },
+  {
+    "name": "Strategic Staffing Solutions Lithuania",
+    "category": "job",
+    "country": "lithuania",
+    "color": "blue",
+    "desc": "International recruitment agency with offices in Lithuania.",
+    "url": "https://www.strategicstaff.com/lt"
+  },
+  {
+    "name": "Alliance for Recruitment",
+    "category": "job",
+    "country": "lithuania",
+    "color": "blue",
+    "desc": "One of the largest recruitment agencies in Lithuania.",
+    "url": "https://www.afr.lt"
+  },
+  {
+    "name": "Amrop Lithuania",
+    "category": "executive",
+    "country": "lithuania",
+    "color": "orange",
+    "desc": "Executive search firm specializing in leadership recruitment in Lithuania.",
+    "url": "https://www.amrop.lt"
+  },
+  {
+    "name": "NVA Lithuania",
+    "category": "government",
+    "country": "lithuania",
+    "color": "yellow",
+    "desc": "Official State Employment Service of Lithuania providing job listings.",
+    "url": "https://www.nva.lt"
+  },
+  {
+    "name": "EURES Lithuania",
+    "category": "government",
+    "country": "lithuania",
+    "color": "yellow",
+    "desc": "EU-wide job mobility portal featuring opportunities in Lithuania.",
+    "url": "https://ec.europa.eu/eures"
+  },
+  {
+    "name": "JobStreet Malaysia",
+    "category": "job",
+    "country": "malaysia",
+    "color": "blue",
+    "desc": "Malaysia’s largest and most popular job portal.",
+    "url": "https://www.jobstreet.com.my"
+  },
+  {
+    "name": "JobsCentral Malaysia",
+    "category": "job",
+    "country": "malaysia",
+    "color": "blue",
+    "desc": "Local job portal covering a variety of industries in Malaysia.",
+    "url": "https://jobscentral.com.my"
+  },
+  {
+    "name": "WOBB (now Hiredly)",
+    "category": "job",
+    "country": "malaysia",
+    "color": "blue",
+    "desc": "Modern job platform focused on millennials and startups in Malaysia.",
+    "url": "https://hiredly.com"
+  },
+  {
+    "name": "Hiredly",
+    "category": "job",
+    "country": "malaysia",
+    "color": "blue",
+    "desc": "Rebranded from WOBB, connecting professionals to modern workplaces in Malaysia.",
+    "url": "https://hiredly.com"
+  },
+  {
+    "name": "FastJobs Malaysia",
+    "category": "gig",
+    "country": "malaysia",
+    "color": "green",
+    "desc": "Mobile-first job platform specializing in entry-level and part-time roles.",
+    "url": "https://www.fastjobs.my"
+  },
+  {
+    "name": "Jobstore",
+    "category": "job",
+    "country": "malaysia",
+    "color": "blue",
+    "desc": "Malaysian job portal offering vacancies across multiple sectors.",
+    "url": "https://www.jobstore.com/my"
+  },
+  {
+    "name": "JobMajestic",
+    "category": "job",
+    "country": "malaysia",
+    "color": "blue",
+    "desc": "Local job site connecting candidates to top employers in Malaysia.",
+    "url": "https://www.jobmajestic.com"
+  },
+  {
+    "name": "Ricebowl",
+    "category": "job",
+    "country": "malaysia",
+    "color": "blue",
+    "desc": "Popular Malaysian job portal with a focus on SMEs and startups.",
+    "url": "https://www.ricebowl.my"
+  },
+  {
+    "name": "Monster Malaysia",
+    "category": "job",
+    "country": "malaysia",
+    "color": "blue",
+    "desc": "Malaysian branch of Monster job search engine.",
+    "url": "https://www.monster.com.my"
+  },
+  {
+    "name": "Indeed Malaysia",
+    "category": "job",
+    "country": "malaysia",
+    "color": "blue",
+    "desc": "Localized version of Indeed for the Malaysian market.",
+    "url": "https://my.indeed.com"
+  },
+  {
+    "name": "LinkedIn Malaysia Jobs",
+    "category": "job",
+    "country": "malaysia",
+    "color": "blue",
+    "desc": "Professional networking and job listings tailored to Malaysia.",
+    "url": "https://www.linkedin.com/jobs/malaysia"
+  },
+  {
+    "name": "Glassdoor Malaysia",
+    "category": "job",
+    "country": "malaysia",
+    "color": "blue",
+    "desc": "Glassdoor’s localized portal with jobs, salaries, and reviews in Malaysia.",
+    "url": "https://www.glassdoor.com/Job/malaysia-jobs-SRCH_IL.0,8_IN170.htm"
+  },
+  {
+    "name": "Careerjet Malaysia",
+    "category": "job",
+    "country": "malaysia",
+    "color": "blue",
+    "desc": "Global job search engine with a dedicated portal for Malaysia.",
+    "url": "https://www.careerjet.com.my"
+  },
+  {
+    "name": "Jooble Malaysia",
+    "category": "job",
+    "country": "malaysia",
+    "color": "blue",
+    "desc": "Job aggregator pulling listings from multiple sources in Malaysia.",
+    "url": "https://my.jooble.org"
+  },
+  {
+    "name": "Adzuna Malaysia",
+    "category": "job",
+    "country": "malaysia",
+    "color": "blue",
+    "desc": "Malaysian branch of the global Adzuna job search engine.",
+    "url": "https://www.adzuna.com.my"
+  },
+  {
+    "name": "GradMalaysia",
+    "category": "internship",
+    "country": "malaysia",
+    "color": "teal",
+    "desc": "Platform providing graduate jobs, internships, and career advice.",
+    "url": "https://gradmalaysia.com"
+  },
+  {
+    "name": "Internsheeps",
+    "category": "internship",
+    "country": "malaysia",
+    "color": "teal",
+    "desc": "Internship-focused platform for students and graduates in Malaysia.",
+    "url": "https://www.internsheeps.com"
+  },
+  {
+    "name": "InternMy",
+    "category": "internship",
+    "country": "malaysia",
+    "color": "teal",
+    "desc": "Internship and training opportunities platform for students in Malaysia.",
+    "url": "https://www.internmy.com"
+  },
+  {
+    "name": "Malaysia Government Jobs (SPA)",
+    "category": "government",
+    "country": "malaysia",
+    "color": "yellow",
+    "desc": "Official government recruitment portal managed by SPA (Suruhanjaya Perkhidmatan Awam).",
+    "url": "https://spa.gov.my"
+  },
+  {
+    "name": "MauKerja",
+    "category": "job",
+    "country": "malaysia",
+    "color": "blue",
+    "desc": "Popular local job portal offering vacancies across Malaysia.",
+    "url": "https://www.maukerja.my"
+  },
+  {
+    "name": "KerjaKini",
+    "category": "job",
+    "country": "malaysia",
+    "color": "blue",
+    "desc": "Malaysian site offering fresh and daily updated job listings.",
+    "url": "https://kerjakini.com"
+  },
+  {
+    "name": "BestJobs Malaysia",
+    "category": "job",
+    "country": "malaysia",
+    "color": "blue",
+    "desc": "Malaysian branch of BestJobs global job search engine.",
+    "url": "https://www.bestjobs.com.my"
+  },
+  {
+    "name": "Michael Page Malaysia",
+    "category": "job",
+    "country": "malaysia",
+    "color": "blue",
+    "desc": "Recruitment agency offering professional and executive jobs in Malaysia.",
+    "url": "https://www.michaelpage.com.my"
+  },
+  {
+    "name": "Hays Malaysia",
+    "category": "job",
+    "country": "malaysia",
+    "color": "blue",
+    "desc": "Global recruitment agency with a strong presence in Malaysia.",
+    "url": "https://www.hays.com.my"
+  },
+  {
+    "name": "Robert Walters Malaysia",
+    "category": "job",
+    "country": "malaysia",
+    "color": "blue",
+    "desc": "Specialized recruitment consultancy operating in Malaysia.",
+    "url": "https://www.robertwalters.com.my"
+  },
+  {
+    "name": "Randstad Malaysia",
+    "category": "job",
+    "country": "malaysia",
+    "color": "blue",
+    "desc": "Randstad staffing and HR services in Malaysia.",
+    "url": "https://www.randstad.com.my"
+  },
+  {
+    "name": "Adecco Malaysia",
+    "category": "job",
+    "country": "malaysia",
+    "color": "blue",
+    "desc": "Adecco staffing and recruitment agency in Malaysia.",
+    "url": "https://www.adecco.com.my"
+  },
+  {
+    "name": "ManpowerGroup Malaysia",
+    "category": "job",
+    "country": "malaysia",
+    "color": "blue",
+    "desc": "Manpower recruitment and HR services across Malaysia.",
+    "url": "https://www.manpower.com.my"
+  },
+  {
+    "name": "OCCMundial",
+    "category": "job",
+    "country": "mexico",
+    "color": "blue",
+    "desc": "Mexico’s largest and most popular job portal.",
+    "url": "https://www.occ.com.mx"
+  },
+  {
+    "name": "Computrabajo Mexico",
+    "category": "job",
+    "country": "mexico",
+    "color": "blue",
+    "desc": "One of the most visited employment sites in Mexico.",
+    "url": "https://www.computrabajo.com.mx"
+  },
+  {
+    "name": "Bumeran Mexico",
+    "category": "job",
+    "country": "mexico",
+    "color": "blue",
+    "desc": "Regional job portal with strong presence in Mexico.",
+    "url": "https://www.bumeran.com.mx"
+  },
+  {
+    "name": "Indeed Mexico",
+    "category": "job",
+    "country": "mexico",
+    "color": "blue",
+    "desc": "Localized version of Indeed for the Mexican market.",
+    "url": "https://mx.indeed.com"
+  },
+  {
+    "name": "LinkedIn Mexico Jobs",
+    "category": "job",
+    "country": "mexico",
+    "color": "blue",
+    "desc": "Professional networking and job listings tailored to Mexico.",
+    "url": "https://www.linkedin.com/jobs/mexico"
+  },
+  {
+    "name": "Glassdoor Mexico",
+    "category": "job",
+    "country": "mexico",
+    "color": "blue",
+    "desc": "Glassdoor job listings, reviews, and salaries in Mexico.",
+    "url": "https://www.glassdoor.com/Job/mexico-jobs-SRCH_IL.0,6_IN170.htm"
+  },
+  {
+    "name": "Monster Mexico",
+    "category": "job",
+    "country": "mexico",
+    "color": "blue",
+    "desc": "Mexican branch of Monster job search engine.",
+    "url": "https://www.monster.com.mx"
+  },
+  {
+    "name": "Jobomas",
+    "category": "job",
+    "country": "mexico",
+    "color": "blue",
+    "desc": "Popular local job board with opportunities across Mexico.",
+    "url": "https://www.jobomas.com"
+  },
+  {
+    "name": "Talenteca",
+    "category": "job",
+    "country": "mexico",
+    "color": "blue",
+    "desc": "Modern Mexican job platform connecting employers with candidates.",
+    "url": "https://www.talenteca.com"
+  },
+  {
+    "name": "Empleos Petromex",
+    "category": "energy",
+    "country": "mexico",
+    "color": "purple",
+    "desc": "Job portal dedicated to oil, gas, and energy jobs in Mexico.",
+    "url": "https://www.petromex.com.mx"
+  },
+  {
+    "name": "Trabajo.org Mexico",
+    "category": "job",
+    "country": "mexico",
+    "color": "blue",
+    "desc": "Job aggregator and listings site for Mexico.",
+    "url": "https://mx.trabajo.org"
+  },
+  {
+    "name": "Zonajobs Mexico",
+    "category": "job",
+    "country": "mexico",
+    "color": "blue",
+    "desc": "Regional job portal with listings in Mexico.",
+    "url": "https://www.zonajobs.com.mx"
+  },
+  {
+    "name": "Careerjet Mexico",
+    "category": "job",
+    "country": "mexico",
+    "color": "blue",
+    "desc": "Global job search engine with a Mexican portal.",
+    "url": "https://www.careerjet.com.mx"
+  },
+  {
+    "name": "Jooble Mexico",
+    "category": "job",
+    "country": "mexico",
+    "color": "blue",
+    "desc": "Job aggregator pulling listings from multiple sources in Mexico.",
+    "url": "https://mx.jooble.org"
+  },
+  {
+    "name": "Adzuna Mexico",
+    "category": "job",
+    "country": "mexico",
+    "color": "blue",
+    "desc": "Mexican branch of the global Adzuna job search engine.",
+    "url": "https://www.adzuna.com.mx"
+  },
+  {
+    "name": "Universia Mexico",
+    "category": "internship",
+    "country": "mexico",
+    "color": "teal",
+    "desc": "Job portal for students and recent graduates in Mexico.",
+    "url": "https://www.universia.net/mx"
+  },
+  {
+    "name": "Empleo.gob.mx",
+    "category": "government",
+    "country": "mexico",
+    "color": "yellow",
+    "desc": "Official Mexican government employment portal.",
+    "url": "https://www.empleo.gob.mx"
+  },
+  {
+    "name": "Servicio Nacional de Empleo (SNE)",
+    "category": "government",
+    "country": "mexico",
+    "color": "yellow",
+    "desc": "National Employment Service of Mexico offering official job listings.",
+    "url": "https://www.empleo.gob.mx/sne"
+  },
+  {
+    "name": "Michael Page Mexico",
+    "category": "job",
+    "country": "mexico",
+    "color": "blue",
+    "desc": "Recruitment agency offering professional and executive jobs in Mexico.",
+    "url": "https://www.michaelpage.com.mx"
+  },
+  {
+    "name": "Hays Mexico",
+    "category": "job",
+    "country": "mexico",
+    "color": "blue",
+    "desc": "Global recruitment agency with a strong presence in Mexico.",
+    "url": "https://www.hays.com.mx"
+  },
+  {
+    "name": "Robert Walters Mexico",
+    "category": "job",
+    "country": "mexico",
+    "color": "blue",
+    "desc": "Specialized recruitment consultancy operating in Mexico.",
+    "url": "https://www.robertwalters.com.mx"
+  },
+  {
+    "name": "Randstad Mexico",
+    "category": "job",
+    "country": "mexico",
+    "color": "blue",
+    "desc": "Randstad staffing and HR services in Mexico.",
+    "url": "https://www.randstad.com.mx"
+  },
+  {
+    "name": "Adecco Mexico",
+    "category": "job",
+    "country": "mexico",
+    "color": "blue",
+    "desc": "Adecco staffing and recruitment agency in Mexico.",
+    "url": "https://www.adecco.com.mx"
+  },
+  {
+    "name": "ManpowerGroup Mexico",
+    "category": "job",
+    "country": "mexico",
+    "color": "blue",
+    "desc": "Manpower recruitment and HR services across Mexico.",
+    "url": "https://www.manpower.com.mx"
+  },
+  {
+    "name": "Kelly Services Mexico",
+    "category": "job",
+    "country": "mexico",
+    "color": "blue",
+    "desc": "International staffing and recruitment agency with offices in Mexico.",
+    "url": "https://www.kellyservices.mx"
+  },
+  {
+    "name": "ReKrute",
+    "category": "job",
+    "country": "morocco",
+    "color": "blue",
+    "desc": "One of the leading job portals in Morocco, widely used by professionals.",
+    "url": "https://www.rekrute.com"
+  },
+  {
+    "name": "Emploi.ma",
+    "category": "job",
+    "country": "morocco",
+    "color": "blue",
+    "desc": "Popular Moroccan job portal covering multiple industries.",
+    "url": "https://www.emploi.ma"
+  },
+  {
+    "name": "MarocAnnonces",
+    "category": "job",
+    "country": "morocco",
+    "color": "blue",
+    "desc": "Classifieds platform with a large job section for Morocco.",
+    "url": "https://www.marocannonces.com"
+  },
+  {
+    "name": "OptionCarriere Morocco",
+    "category": "job",
+    "country": "morocco",
+    "color": "blue",
+    "desc": "Localized Moroccan portal of Careerjet global job search engine.",
+    "url": "https://www.optioncarriere.ma"
+  },
+  {
+    "name": "Indeed Morocco",
+    "category": "job",
+    "country": "morocco",
+    "color": "blue",
+    "desc": "Localized version of Indeed for Morocco.",
+    "url": "https://ma.indeed.com"
+  },
+  {
+    "name": "LinkedIn Morocco Jobs",
+    "category": "job",
+    "country": "morocco",
+    "color": "blue",
+    "desc": "Professional networking and job listings tailored to Morocco.",
+    "url": "https://www.linkedin.com/jobs/morocco"
+  },
+  {
+    "name": "Glassdoor Morocco",
+    "category": "job",
+    "country": "morocco",
+    "color": "blue",
+    "desc": "Glassdoor job listings, reviews, and salaries in Morocco.",
+    "url": "https://www.glassdoor.com/Job/morocco-jobs-SRCH_IL.0,7_IN153.htm"
+  },
+  {
+    "name": "Jooble Morocco",
+    "category": "job",
+    "country": "morocco",
+    "color": "blue",
+    "desc": "Job aggregator pulling listings from multiple sources in Morocco.",
+    "url": "https://ma.jooble.org"
+  },
+  {
+    "name": "Adzuna Morocco",
+    "category": "job",
+    "country": "morocco",
+    "color": "blue",
+    "desc": "Moroccan branch of the global Adzuna job portal.",
+    "url": "https://www.adzuna.ma"
+  },
+  {
+    "name": "Bayt.com Morocco",
+    "category": "job",
+    "country": "morocco",
+    "color": "blue",
+    "desc": "Regional job portal Bayt featuring listings in Morocco.",
+    "url": "https://www.bayt.com/en/morocco/jobs"
+  },
+  {
+    "name": "GulfTalent Morocco",
+    "category": "job",
+    "country": "morocco",
+    "color": "blue",
+    "desc": "Popular Middle East job portal with opportunities in Morocco.",
+    "url": "https://www.gulftalent.com/morocco/jobs"
+  },
+  {
+    "name": "Monster Gulf Morocco",
+    "category": "job",
+    "country": "morocco",
+    "color": "blue",
+    "desc": "Monster’s Gulf portal with listings for Morocco.",
+    "url": "https://www.monstergulf.com/morocco-jobs"
+  },
+  {
+    "name": "Novojob Morocco",
+    "category": "job",
+    "country": "morocco",
+    "color": "blue",
+    "desc": "Regional job portal with a strong presence in Morocco.",
+    "url": "https://www.novojob.com/maroc"
+  },
+  {
+    "name": "Alwadifa",
+    "category": "government",
+    "country": "morocco",
+    "color": "yellow",
+    "desc": "Portal focusing on government and public sector jobs in Morocco.",
+    "url": "https://www.alwadifa-maroc.com"
+  },
+  {
+    "name": "EmploiPublic.ma",
+    "category": "government",
+    "country": "morocco",
+    "color": "yellow",
+    "desc": "Official Moroccan government job portal.",
+    "url": "https://www.emploi-public.ma"
+  },
+  {
+    "name": "Menara Job",
+    "category": "job",
+    "country": "morocco",
+    "color": "blue",
+    "desc": "Moroccan job portal featuring diverse job opportunities.",
+    "url": "https://www.menara.ma/jobs"
+  },
+  {
+    "name": "Michael Page Morocco",
+    "category": "job",
+    "country": "morocco",
+    "color": "blue",
+    "desc": "Recruitment agency providing professional and executive jobs in Morocco.",
+    "url": "https://www.michaelpageafrica.com/jobs/morocco"
+  },
+  {
+    "name": "Adecco Morocco",
+    "category": "job",
+    "country": "morocco",
+    "color": "blue",
+    "desc": "Adecco staffing and recruitment services in Morocco.",
+    "url": "https://www.adecco.ma"
+  },
+  {
+    "name": "ManpowerGroup Morocco",
+    "category": "job",
+    "country": "morocco",
+    "color": "blue",
+    "desc": "Manpower staffing and HR services in Morocco.",
+    "url": "https://www.manpower-maroc.com"
+  },
+  {
+    "name": "ReKrute Executive",
+    "category": "executive",
+    "country": "morocco",
+    "color": "orange",
+    "desc": "Executive recruitment and headhunting branch of ReKrute.",
+    "url": "https://www.rekrute.com/recrutement-executive"
+  },
+  {
+    "name": "Merojob",
+    "category": "job",
+    "country": "nepal",
+    "color": "blue",
+    "desc": "Nepal’s largest and most popular job portal.",
+    "url": "https://www.merojob.com"
+  },
+  {
+    "name": "RamroJob",
+    "category": "job",
+    "country": "nepal",
+    "color": "blue",
+    "desc": "Well-known Nepalese job site with listings across industries.",
+    "url": "https://www.ramrojob.com"
+  },
+  {
+    "name": "Kumarijob",
+    "category": "job",
+    "country": "nepal",
+    "color": "blue",
+    "desc": "Job portal providing employment opportunities across Nepal.",
+    "url": "https://www.kumarijob.com"
+  },
+  {
+    "name": "JobsNepal",
+    "category": "job",
+    "country": "nepal",
+    "color": "blue",
+    "desc": "One of the oldest and most trusted job portals in Nepal.",
+    "url": "https://www.jobsnepal.com"
+  },
+  {
+    "name": "Growthsellers",
+    "category": "job",
+    "country": "nepal",
+    "color": "blue",
+    "desc": "Recruitment agency and job portal based in Nepal.",
+    "url": "https://www.growthsellers.com"
+  },
+  {
+    "name": "MeroRojgari",
+    "category": "job",
+    "country": "nepal",
+    "color": "blue",
+    "desc": "Local Nepalese job portal offering daily job postings.",
+    "url": "https://www.merorojgari.com"
+  },
+  {
+    "name": "Kantipur Job",
+    "category": "job",
+    "country": "nepal",
+    "color": "blue",
+    "desc": "Job site operated by Kantipur Media Group.",
+    "url": "https://kantipurjob.com"
+  },
+  {
+    "name": "JobAxle",
+    "category": "job",
+    "country": "nepal",
+    "color": "blue",
+    "desc": "Modern job portal and recruitment service in Nepal.",
+    "url": "https://jobaxle.com"
+  },
+  {
+    "name": "JobsDirectNepal",
+    "category": "job",
+    "country": "nepal",
+    "color": "blue",
+    "desc": "Nepalese job site providing listings across various industries.",
+    "url": "https://www.jobsdirectnepal.com"
+  },
+  {
+    "name": "MeroLagani",
+    "category": "finance",
+    "country": "nepal",
+    "color": "purple",
+    "desc": "Specialized portal for finance and investment jobs in Nepal.",
+    "url": "https://merolagani.com"
+  },
+  {
+    "name": "Global Job Pvt. Ltd.",
+    "category": "job",
+    "country": "nepal",
+    "color": "blue",
+    "desc": "Recruitment agency and job services provider in Nepal.",
+    "url": "https://globaljob.com.np"
+  },
+  {
+    "name": "Jobs Dynamics Nepal",
+    "category": "job",
+    "country": "nepal",
+    "color": "blue",
+    "desc": "Recruitment and HR consulting firm in Nepal.",
+    "url": "https://jobsdynamics.com"
+  },
+  {
+    "name": "Real Solutions",
+    "category": "job",
+    "country": "nepal",
+    "color": "blue",
+    "desc": "Leading HR consulting and recruitment agency in Nepal.",
+    "url": "https://realsolutions.com.np"
+  },
+  {
+    "name": "Indeed Nepal",
+    "category": "job",
+    "country": "nepal",
+    "color": "blue",
+    "desc": "Localized version of Indeed for Nepal.",
+    "url": "https://np.indeed.com"
+  },
+  {
+    "name": "LinkedIn Nepal Jobs",
+    "category": "job",
+    "country": "nepal",
+    "color": "blue",
+    "desc": "Professional networking and job listings tailored to Nepal.",
+    "url": "https://www.linkedin.com/jobs/nepal"
+  },
+  {
+    "name": "Glassdoor Nepal",
+    "category": "job",
+    "country": "nepal",
+    "color": "blue",
+    "desc": "Glassdoor job listings, reviews, and salaries in Nepal.",
+    "url": "https://www.glassdoor.com/Job/nepal-jobs-SRCH_IL.0,5_IN149.htm"
+  },
+  {
+    "name": "Careerjet Nepal",
+    "category": "job",
+    "country": "nepal",
+    "color": "blue",
+    "desc": "Global job search engine with a localized portal for Nepal.",
+    "url": "https://www.careerjet.com.np"
+  },
+  {
+    "name": "Jooble Nepal",
+    "category": "job",
+    "country": "nepal",
+    "color": "blue",
+    "desc": "Job aggregator pulling listings from multiple sources in Nepal.",
+    "url": "https://np.jooble.org"
+  },
+  {
+    "name": "JobsGlobal",
+    "category": "ngo",
+    "country": "nepal",
+    "color": "green",
+    "desc": "Portal connecting candidates to global and NGO opportunities, including Nepal.",
+    "url": "https://jobsglobal.com"
+  },
+  {
+    "name": "UN Jobs Nepal",
+    "category": "ngo",
+    "country": "nepal",
+    "color": "green",
+    "desc": "Job listings for UN and NGO roles in Nepal.",
+    "url": "https://unjobs.org/duty_stations/nepal"
+  },
+  {
+    "name": "JobsNepal.com (IT & Tech)",
+    "category": "tech",
+    "country": "nepal",
+    "color": "pink",
+    "desc": "Job portal focusing on IT and technology-related jobs in Nepal.",
+    "url": "https://www.jobsnepal.com"
+  },
+  {
+    "name": "Nationale Vacaturebank",
+    "category": "job",
+    "country": "netherlands",
+    "color": "blue",
+    "desc": "One of the largest job portals in the Netherlands.",
+    "url": "https://www.nationalevacaturebank.nl"
+  },
+  {
+    "name": "Intermediair",
+    "category": "job",
+    "country": "netherlands",
+    "color": "blue",
+    "desc": "Job portal focused on higher-educated professionals in the Netherlands.",
+    "url": "https://www.intermediair.nl"
+  },
+  {
+    "name": "Werk.nl (UWV)",
+    "category": "government",
+    "country": "netherlands",
+    "color": "yellow",
+    "desc": "Official government employment service managed by UWV.",
+    "url": "https://www.werk.nl"
+  },
+  {
+    "name": "WerkenbijdeOverheid.nl",
+    "category": "government",
+    "country": "netherlands",
+    "color": "yellow",
+    "desc": "Government portal for public sector jobs in the Netherlands.",
+    "url": "https://www.werkenbijdeoverheid.nl"
+  },
+  {
+    "name": "Jobbird",
+    "category": "job",
+    "country": "netherlands",
+    "color": "blue",
+    "desc": "Popular Dutch job board covering multiple industries.",
+    "url": "https://www.jobbird.com"
+  },
+  {
+    "name": "Banen.nl",
+    "category": "job",
+    "country": "netherlands",
+    "color": "blue",
+    "desc": "Dutch job portal featuring vacancies across sectors.",
+    "url": "https://www.banen.nl"
+  },
+  {
+    "name": "Monsterboard.nl",
+    "category": "job",
+    "country": "netherlands",
+    "color": "blue",
+    "desc": "Localized Monster job portal for the Netherlands.",
+    "url": "https://www.monsterboard.nl"
+  },
+  {
+    "name": "Indeed Netherlands",
+    "category": "job",
+    "country": "netherlands",
+    "color": "blue",
+    "desc": "Localized version of Indeed for the Dutch job market.",
+    "url": "https://nl.indeed.com"
+  },
+  {
+    "name": "LinkedIn Netherlands Jobs",
+    "category": "job",
+    "country": "netherlands",
+    "color": "blue",
+    "desc": "Professional networking and job listings tailored to the Netherlands.",
+    "url": "https://www.linkedin.com/jobs/netherlands"
+  },
+  {
+    "name": "Glassdoor Netherlands",
+    "category": "job",
+    "country": "netherlands",
+    "color": "blue",
+    "desc": "Glassdoor’s localized portal with jobs, salaries, and reviews in the Netherlands.",
+    "url": "https://www.glassdoor.com/Job/netherlands-jobs-SRCH_IL.0,11_IN178.htm"
+  },
+  {
+    "name": "Careerjet Netherlands",
+    "category": "job",
+    "country": "netherlands",
+    "color": "blue",
+    "desc": "Global job search engine with a localized portal for the Netherlands.",
+    "url": "https://www.careerjet.nl"
+  },
+  {
+    "name": "Jooble Netherlands",
+    "category": "job",
+    "country": "netherlands",
+    "color": "blue",
+    "desc": "Job aggregator pulling listings from multiple sources in the Netherlands.",
+    "url": "https://nl.jooble.org"
+  },
+  {
+    "name": "Adzuna Netherlands",
+    "category": "job",
+    "country": "netherlands",
+    "color": "blue",
+    "desc": "Dutch branch of the global Adzuna job portal.",
+    "url": "https://www.adzuna.nl"
+  },
+  {
+    "name": "SimplyHired Netherlands",
+    "category": "job",
+    "country": "netherlands",
+    "color": "blue",
+    "desc": "Job aggregator with a Dutch-specific section.",
+    "url": "https://www.simplyhired.nl"
+  },
+  {
+    "name": "StepStone Netherlands",
+    "category": "job",
+    "country": "netherlands",
+    "color": "blue",
+    "desc": "European job portal with listings in the Netherlands.",
+    "url": "https://www.stepstone.nl"
+  },
+  {
+    "name": "AcademicTransfer",
+    "category": "academic",
+    "country": "netherlands",
+    "color": "purple",
+    "desc": "The official academic job portal in the Netherlands.",
+    "url": "https://www.academictransfer.com"
+  },
+  {
+    "name": "Graduateland Netherlands",
+    "category": "internship",
+    "country": "netherlands",
+    "color": "teal",
+    "desc": "Graduate and internship job platform with opportunities in the Netherlands.",
+    "url": "https://graduateland.com"
+  },
+  {
+    "name": "EuroJobs Netherlands",
+    "category": "job",
+    "country": "netherlands",
+    "color": "blue",
+    "desc": "European job portal featuring vacancies in the Netherlands.",
+    "url": "https://www.eurojobs.com/netherlands"
+  },
+  {
+    "name": "Expatica Jobs",
+    "category": "job",
+    "country": "netherlands",
+    "color": "blue",
+    "desc": "Job portal dedicated to expatriates living in the Netherlands.",
+    "url": "https://jobs.expatica.com/netherlands"
+  },
+  {
+    "name": "Together Abroad",
+    "category": "job",
+    "country": "netherlands",
+    "color": "blue",
+    "desc": "Platform focused on international and bilingual job seekers in the Netherlands.",
+    "url": "https://www.togetherabroad.nl"
+  },
+  {
+    "name": "IamExpat Jobs Netherlands",
+    "category": "job",
+    "country": "netherlands",
+    "color": "blue",
+    "desc": "Job portal designed for expats living and working in the Netherlands.",
+    "url": "https://www.iamexpat.nl/career/jobs-netherlands"
+  },
+  {
+    "name": "Michael Page Netherlands",
+    "category": "job",
+    "country": "netherlands",
+    "color": "blue",
+    "desc": "Recruitment agency providing professional and executive jobs in the Netherlands.",
+    "url": "https://www.michaelpage.nl"
+  },
+  {
+    "name": "Hays Netherlands",
+    "category": "job",
+    "country": "netherlands",
+    "color": "blue",
+    "desc": "Global recruitment agency with strong operations in the Netherlands.",
+    "url": "https://www.hays.nl"
+  },
+  {
+    "name": "Robert Walters Netherlands",
+    "category": "job",
+    "country": "netherlands",
+    "color": "blue",
+    "desc": "Specialized recruitment agency for professional roles in the Netherlands.",
+    "url": "https://www.robertwalters.nl"
+  },
+  {
+    "name": "Randstad Netherlands",
+    "category": "job",
+    "country": "netherlands",
+    "color": "blue",
+    "desc": "One of the largest staffing and recruitment agencies in the Netherlands.",
+    "url": "https://www.randstad.nl"
+  },
+  {
+    "name": "Adecco Netherlands",
+    "category": "job",
+    "country": "netherlands",
+    "color": "blue",
+    "desc": "Adecco staffing and recruitment services in the Netherlands.",
+    "url": "https://www.adecco.nl"
+  },
+  {
+    "name": "ManpowerGroup Netherlands",
+    "category": "job",
+    "country": "netherlands",
+    "color": "blue",
+    "desc": "Manpower recruitment and HR services in the Netherlands.",
+    "url": "https://www.manpower.nl"
+  },
+  {
+    "name": "Unique NL",
+    "category": "job",
+    "country": "netherlands",
+    "color": "blue",
+    "desc": "Dutch recruitment agency offering staffing services across industries.",
+    "url": "https://www.unique.nl"
+  },
+  {
+    "name": "Tempo-Team",
+    "category": "job",
+    "country": "netherlands",
+    "color": "blue",
+    "desc": "Leading recruitment and staffing company in the Netherlands.",
+    "url": "https://www.tempo-team.nl"
+  },
+  {
+    "name": "Seek New Zealand",
+    "category": "job",
+    "country": "newzealand",
+    "color": "blue",
+    "desc": "New Zealand’s largest and most popular job portal.",
+    "url": "https://www.seek.co.nz"
+  },
+  {
+    "name": "Trade Me Jobs",
+    "category": "job",
+    "country": "newzealand",
+    "color": "blue",
+    "desc": "Well-known New Zealand job site under the Trade Me marketplace.",
+    "url": "https://www.trademe.co.nz/jobs"
+  },
+  {
+    "name": "Indeed New Zealand",
+    "category": "job",
+    "country": "newzealand",
+    "color": "blue",
+    "desc": "Localized version of Indeed for the New Zealand job market.",
+    "url": "https://nz.indeed.com"
+  },
+  {
+    "name": "LinkedIn New Zealand Jobs",
+    "category": "job",
+    "country": "newzealand",
+    "color": "blue",
+    "desc": "Professional networking and job listings tailored to New Zealand.",
+    "url": "https://www.linkedin.com/jobs/new-zealand"
+  },
+  {
+    "name": "Glassdoor New Zealand",
+    "category": "job",
+    "country": "newzealand",
+    "color": "blue",
+    "desc": "Glassdoor’s localized portal with jobs, salaries, and reviews in New Zealand.",
+    "url": "https://www.glassdoor.com/Job/new-zealand-jobs-SRCH_IL.0,11_IN186.htm"
+  },
+  {
+    "name": "Careerjet New Zealand",
+    "category": "job",
+    "country": "newzealand",
+    "color": "blue",
+    "desc": "Global job search engine with a localized portal for New Zealand.",
+    "url": "https://www.careerjet.co.nz"
+  },
+  {
+    "name": "Jooble New Zealand",
+    "category": "job",
+    "country": "newzealand",
+    "color": "blue",
+    "desc": "Job aggregator pulling listings from multiple sources in New Zealand.",
+    "url": "https://nz.jooble.org"
+  },
+  {
+    "name": "Adzuna New Zealand",
+    "category": "job",
+    "country": "newzealand",
+    "color": "blue",
+    "desc": "New Zealand branch of the global Adzuna job portal.",
+    "url": "https://www.adzuna.co.nz"
+  },
+  {
+    "name": "Jobs.govt.nz",
+    "category": "government",
+    "country": "newzealand",
+    "color": "yellow",
+    "desc": "Official New Zealand government jobs portal.",
+    "url": "https://jobs.govt.nz"
+  },
+  {
+    "name": "KiwiHealth Jobs",
+    "category": "healthcare",
+    "country": "newzealand",
+    "color": "green",
+    "desc": "Official health sector jobs portal for New Zealand.",
+    "url": "https://www.kiwihealthjobs.com"
+  },
+  {
+    "name": "Education Gazette",
+    "category": "education",
+    "country": "newzealand",
+    "color": "purple",
+    "desc": "Official platform for teaching and education jobs in New Zealand.",
+    "url": "https://gazette.education.govt.nz"
+  },
+  {
+    "name": "Farm Source Jobs",
+    "category": "agriculture",
+    "country": "newzealand",
+    "color": "green",
+    "desc": "Job portal for agriculture and farming opportunities in New Zealand.",
+    "url": "https://nzfarmsource.co.nz/jobs"
+  },
+  {
+    "name": "Do Good Jobs",
+    "category": "ngo",
+    "country": "newzealand",
+    "color": "green",
+    "desc": "Specialized platform for non-profit, NGO, and charity jobs in New Zealand.",
+    "url": "https://dogoodjobs.co.nz"
+  },
+  {
+    "name": "GradNewZealand",
+    "category": "internship",
+    "country": "newzealand",
+    "color": "teal",
+    "desc": "Graduate careers and internship opportunities in New Zealand.",
+    "url": "https://gradnewzealand.nz"
+  },
+  {
+    "name": "WorkHere",
+    "category": "job",
+    "country": "newzealand",
+    "color": "blue",
+    "desc": "Job platform connecting skilled migrants and expats to New Zealand employers.",
+    "url": "https://workhere.co.nz"
+  },
+  {
+    "name": "Jobted New Zealand",
+    "category": "job",
+    "country": "newzealand",
+    "color": "blue",
+    "desc": "Job search engine featuring listings across New Zealand.",
+    "url": "https://nz.jobted.com"
+  },
+  {
+    "name": "NZUniJobs",
+    "category": "academic",
+    "country": "newzealand",
+    "color": "purple",
+    "desc": "Academic and university-focused job portal in New Zealand.",
+    "url": "https://www.nzunijobs.co.nz"
+  },
+  {
+    "name": "Michael Page New Zealand",
+    "category": "job",
+    "country": "newzealand",
+    "color": "blue",
+    "desc": "Recruitment agency providing professional and executive roles in New Zealand.",
+    "url": "https://www.michaelpage.co.nz"
+  },
+  {
+    "name": "Hays New Zealand",
+    "category": "job",
+    "country": "newzealand",
+    "color": "blue",
+    "desc": "Global recruitment agency with a strong presence in New Zealand.",
+    "url": "https://www.hays.net.nz"
+  },
+  {
+    "name": "Robert Walters New Zealand",
+    "category": "job",
+    "country": "newzealand",
+    "color": "blue",
+    "desc": "International recruitment consultancy with operations in New Zealand.",
+    "url": "https://www.robertwalters.co.nz"
+  },
+  {
+    "name": "Randstad New Zealand",
+    "category": "job",
+    "country": "newzealand",
+    "color": "blue",
+    "desc": "Randstad staffing and HR services across New Zealand.",
+    "url": "https://www.randstad.co.nz"
+  },
+  {
+    "name": "Adecco New Zealand",
+    "category": "job",
+    "country": "newzealand",
+    "color": "blue",
+    "desc": "Adecco staffing and recruitment agency in New Zealand.",
+    "url": "https://www.adecco.co.nz"
+  },
+  {
+    "name": "ManpowerGroup New Zealand",
+    "category": "job",
+    "country": "newzealand",
+    "color": "blue",
+    "desc": "Manpower recruitment and HR services in New Zealand.",
+    "url": "https://www.manpowergroup.co.nz"
+  },
+  {
+    "name": "Madison Recruitment",
+    "category": "job",
+    "country": "newzealand",
+    "color": "blue",
+    "desc": "New Zealand-based recruitment agency providing staffing solutions.",
+    "url": "https://madison.co.nz"
+  },
+  {
+    "name": "Beyond Recruitment",
+    "category": "job",
+    "country": "newzealand",
+    "color": "blue",
+    "desc": "Leading independent recruitment agency in New Zealand.",
+    "url": "https://www.beyondrecruitment.co.nz"
+  },
+  {
+    "name": "Jobberman Nigeria",
+    "category": "job",
+    "country": "nigeria",
+    "color": "blue",
+    "desc": "Nigeria’s largest and most popular job portal with thousands of listings.",
+    "url": "https://www.jobberman.com"
+  },
+  {
+    "name": "MyJobMag Nigeria",
+    "category": "job",
+    "country": "nigeria",
+    "color": "blue",
+    "desc": "Popular Nigerian job site offering daily job listings and career resources.",
+    "url": "https://www.myjobmag.com"
+  },
+  {
+    "name": "Hot Nigerian Jobs",
+    "category": "job",
+    "country": "nigeria",
+    "color": "blue",
+    "desc": "Daily updated job portal covering multiple industries in Nigeria.",
+    "url": "https://www.hotnigerianjobs.com"
+  },
+  {
+    "name": "NG Careers",
+    "category": "job",
+    "country": "nigeria",
+    "color": "blue",
+    "desc": "Career development platform with job listings and professional resources.",
+    "url": "https://ngcareers.com"
+  },
+  {
+    "name": "JustJobsNg",
+    "category": "job",
+    "country": "nigeria",
+    "color": "blue",
+    "desc": "Local job portal providing opportunities across Nigeria.",
+    "url": "https://www.justjobsng.com"
+  },
+  {
+    "name": "Jobzilla Nigeria",
+    "category": "job",
+    "country": "nigeria",
+    "color": "blue",
+    "desc": "Nigerian job site featuring listings across industries and regions.",
+    "url": "https://www.jobzilla.ng"
+  },
+  {
+    "name": "JobGurus Nigeria",
+    "category": "job",
+    "country": "nigeria",
+    "color": "blue",
+    "desc": "Popular Nigerian job portal offering daily job postings.",
+    "url": "https://www.jobgurus.com.ng"
+  },
+  {
+    "name": "JobMag Nigeria",
+    "category": "job",
+    "country": "nigeria",
+    "color": "blue",
+    "desc": "Recruitment and training firm in Nigeria offering job opportunities.",
+    "url": "https://jobmag.co"
+  },
+  {
+    "name": "Jobemy Nigeria",
+    "category": "job",
+    "country": "nigeria",
+    "color": "blue",
+    "desc": "Job portal providing fresh graduate and professional roles in Nigeria.",
+    "url": "https://jobemy.com"
+  },
+  {
+    "name": "Naija Hot Jobs",
+    "category": "job",
+    "country": "nigeria",
+    "color": "blue",
+    "desc": "Classified-style job site listing multiple opportunities in Nigeria.",
+    "url": "https://www.naijahotjobs.com"
+  },
+  {
+    "name": "Graduate Jobs Nigeria",
+    "category": "internship",
+    "country": "nigeria",
+    "color": "teal",
+    "desc": "Job platform focused on entry-level and graduate career opportunities.",
+    "url": "https://graduatejob.com.ng"
+  },
+  {
+    "name": "NGO Jobs Africa (Nigeria section)",
+    "category": "ngo",
+    "country": "nigeria",
+    "color": "green",
+    "desc": "NGO-focused job portal covering opportunities across Nigeria.",
+    "url": "https://www.ngojobsinafrica.com/country/nigeria"
+  },
+  {
+    "name": "UN Jobs Nigeria",
+    "category": "ngo",
+    "country": "nigeria",
+    "color": "green",
+    "desc": "UN Jobs platform listing UN and INGO vacancies in Nigeria.",
+    "url": "https://unjobs.org/duty_stations/nigeria"
+  },
+  {
+    "name": "Indeed Nigeria",
+    "category": "job",
+    "country": "nigeria",
+    "color": "blue",
+    "desc": "Localized version of Indeed for the Nigerian job market.",
+    "url": "https://ng.indeed.com"
+  },
+  {
+    "name": "LinkedIn Nigeria Jobs",
+    "category": "job",
+    "country": "nigeria",
+    "color": "blue",
+    "desc": "Professional networking and job listings tailored to Nigeria.",
+    "url": "https://www.linkedin.com/jobs/nigeria"
+  },
+  {
+    "name": "Glassdoor Nigeria",
+    "category": "job",
+    "country": "nigeria",
+    "color": "blue",
+    "desc": "Glassdoor job listings, salaries, and company reviews in Nigeria.",
+    "url": "https://www.glassdoor.com/Job/nigeria-jobs-SRCH_IL.0,7_IN178.htm"
+  },
+  {
+    "name": "Careerjet Nigeria",
+    "category": "job",
+    "country": "nigeria",
+    "color": "blue",
+    "desc": "Global job search engine with a dedicated Nigerian portal.",
+    "url": "https://www.careerjet.com.ng"
+  },
+  {
+    "name": "Jooble Nigeria",
+    "category": "job",
+    "country": "nigeria",
+    "color": "blue",
+    "desc": "Job aggregator pulling listings from multiple sources in Nigeria.",
+    "url": "https://ng.jooble.org"
+  },
+  {
+    "name": "Adzuna Nigeria",
+    "category": "job",
+    "country": "nigeria",
+    "color": "blue",
+    "desc": "Nigerian branch of the global Adzuna job portal.",
+    "url": "https://www.adzuna.com.ng"
+  },
+  {
+    "name": "Jobspire Nigeria",
+    "category": "job",
+    "country": "nigeria",
+    "color": "blue",
+    "desc": "Modern job platform connecting employers with talent in Nigeria.",
+    "url": "https://jobspire.com.ng"
+  },
+  {
+    "name": "Gig Nigeria",
+    "category": "gig",
+    "country": "nigeria",
+    "color": "green",
+    "desc": "Gig and freelance-focused job platform in Nigeria.",
+    "url": "https://gig.ng"
+  },
+  {
+    "name": "Federal Civil Service Commission (FCSC) Nigeria",
+    "category": "government",
+    "country": "nigeria",
+    "color": "yellow",
+    "desc": "Official government portal for federal civil service jobs in Nigeria.",
+    "url": "https://www.fcsc.gov.ng"
+  },
+  {
+    "name": "Nigeria Police Recruitment Portal",
+    "category": "government",
+    "country": "nigeria",
+    "color": "yellow",
+    "desc": "Official portal for police recruitment in Nigeria.",
+    "url": "https://www.policerecruitment.gov.ng"
+  },
+  {
+    "name": "Nigeria Army Recruitment Portal",
+    "category": "government",
+    "country": "nigeria",
+    "color": "yellow",
+    "desc": "Official recruitment site for the Nigerian Army.",
+    "url": "https://recruitment.army.mil.ng"
+  },
+  {
+    "name": "Nigeria Immigration Service Recruitment",
+    "category": "government",
+    "country": "nigeria",
+    "color": "yellow",
+    "desc": "Official government portal for immigration jobs in Nigeria.",
+    "url": "https://immigration.gov.ng"
+  },
+  {
+    "name": "Npower Nigeria",
+    "category": "government",
+    "country": "nigeria",
+    "color": "yellow",
+    "desc": "Government youth empowerment and employment program in Nigeria.",
+    "url": "https://npower.gov.ng"
+  },
+  {
+    "name": "Michael Page Nigeria",
+    "category": "job",
+    "country": "nigeria",
+    "color": "blue",
+    "desc": "Recruitment agency providing professional and executive jobs in Nigeria.",
+    "url": "https://www.michaelpageafrica.com/jobs/nigeria"
+  },
+  {
+    "name": "Hays Nigeria",
+    "category": "job",
+    "country": "nigeria",
+    "color": "blue",
+    "desc": "Global recruitment agency with opportunities in Nigeria.",
+    "url": "https://www.hays.com.ng"
+  },
+  {
+    "name": "Robert Walters Nigeria",
+    "category": "job",
+    "country": "nigeria",
+    "color": "blue",
+    "desc": "International recruitment consultancy providing jobs in Nigeria.",
+    "url": "https://www.robertwalters.com.ng"
+  },
+  {
+    "name": "Adexen Recruitment",
+    "category": "job",
+    "country": "nigeria",
+    "color": "blue",
+    "desc": "Recruitment agency specializing in multinational companies in Nigeria.",
+    "url": "https://www.adexen.com"
+  },
+  {
+    "name": "Workforce Group",
+    "category": "job",
+    "country": "nigeria",
+    "color": "blue",
+    "desc": "HR consulting and recruitment agency in Nigeria.",
+    "url": "https://www.workforcegroup.com"
+  },
+  {
+    "name": "Phillips Consulting",
+    "category": "job",
+    "country": "nigeria",
+    "color": "blue",
+    "desc": "Leading management and HR consulting firm offering jobs in Nigeria.",
+    "url": "https://phillipsconsulting.net"
+  },
+  {
+    "name": "Finn.no Jobs",
+    "category": "job",
+    "country": "norway",
+    "color": "blue",
+    "desc": "Norway’s largest online marketplace with a dedicated job section.",
+    "url": "https://www.finn.no/job"
+  },
+  {
+    "name": "NAV.no",
+    "category": "government",
+    "country": "norway",
+    "color": "yellow",
+    "desc": "Official Norwegian Labour and Welfare Administration job portal.",
+    "url": "https://www.nav.no"
+  },
+  {
+    "name": "JobbNorge",
+    "category": "job",
+    "country": "norway",
+    "color": "blue",
+    "desc": "Major Norwegian job board used by public and private employers.",
+    "url": "https://www.jobbnorge.no"
+  },
+  {
+    "name": "KarriereStart.no",
+    "category": "job",
+    "country": "norway",
+    "color": "blue",
+    "desc": "Popular Norwegian job portal and career resource.",
+    "url": "https://www.karrierestart.no"
+  },
+  {
+    "name": "Jobbsafari Norway",
+    "category": "job",
+    "country": "norway",
+    "color": "blue",
+    "desc": "Job search engine with a strong presence in Norway.",
+    "url": "https://www.jobbsafari.no"
+  },
+  {
+    "name": "Indeed Norway",
+    "category": "job",
+    "country": "norway",
+    "color": "blue",
+    "desc": "Localized version of Indeed for Norway.",
+    "url": "https://no.indeed.com"
+  },
+  {
+    "name": "LinkedIn Norway Jobs",
+    "category": "job",
+    "country": "norway",
+    "color": "blue",
+    "desc": "Professional networking and job listings tailored to Norway.",
+    "url": "https://www.linkedin.com/jobs/norway"
+  },
+  {
+    "name": "Glassdoor Norway",
+    "category": "job",
+    "country": "norway",
+    "color": "blue",
+    "desc": "Glassdoor job listings, salaries, and reviews in Norway.",
+    "url": "https://www.glassdoor.com/Job/norway-jobs-SRCH_IL.0,6_IN178.htm"
+  },
+  {
+    "name": "Careerjet Norway",
+    "category": "job",
+    "country": "norway",
+    "color": "blue",
+    "desc": "Global job search engine with a localized portal for Norway.",
+    "url": "https://www.careerjet.no"
+  },
+  {
+    "name": "Jooble Norway",
+    "category": "job",
+    "country": "norway",
+    "color": "blue",
+    "desc": "Job aggregator pulling listings from multiple sources in Norway.",
+    "url": "https://no.jooble.org"
+  },
+  {
+    "name": "Adzuna Norway",
+    "category": "job",
+    "country": "norway",
+    "color": "blue",
+    "desc": "Norwegian branch of the global Adzuna job portal.",
+    "url": "https://www.adzuna.no"
+  },
+  {
+    "name": "StepStone Norway",
+    "category": "job",
+    "country": "norway",
+    "color": "blue",
+    "desc": "European job portal with a localized section for Norway.",
+    "url": "https://www.stepstone.no"
+  },
+  {
+    "name": "EURES Norway",
+    "category": "government",
+    "country": "norway",
+    "color": "yellow",
+    "desc": "EU job mobility portal with opportunities in Norway.",
+    "url": "https://ec.europa.eu/eures/public/en/homepage"
+  },
+  {
+    "name": "Academic Positions Norway",
+    "category": "academic",
+    "country": "norway",
+    "color": "purple",
+    "desc": "Job portal specializing in research and academic roles in Norway.",
+    "url": "https://academicpositions.com/jobs/norway"
+  },
+  {
+    "name": "Jobbnorge Academic",
+    "category": "academic",
+    "country": "norway",
+    "color": "purple",
+    "desc": "Norwegian academic job board for universities and colleges.",
+    "url": "https://www.jobbnorge.no/en/available-jobs/academic"
+  },
+  {
+    "name": "Michael Page Norway",
+    "category": "job",
+    "country": "norway",
+    "color": "blue",
+    "desc": "Recruitment agency providing professional and executive roles in Norway.",
+    "url": "https://www.michaelpage.no"
+  },
+  {
+    "name": "Hays Norway",
+    "category": "job",
+    "country": "norway",
+    "color": "blue",
+    "desc": "Global recruitment agency with a strong presence in Norway.",
+    "url": "https://www.hays.no"
+  },
+  {
+    "name": "Randstad Norway",
+    "category": "job",
+    "country": "norway",
+    "color": "blue",
+    "desc": "Randstad staffing and HR services across Norway.",
+    "url": "https://www.randstad.no"
+  },
+  {
+    "name": "ManpowerGroup Norway",
+    "category": "job",
+    "country": "norway",
+    "color": "blue",
+    "desc": "Manpower recruitment and staffing solutions in Norway.",
+    "url": "https://www.manpower.no"
+  },
+  {
+    "name": "Adecco Norway",
+    "category": "job",
+    "country": "norway",
+    "color": "blue",
+    "desc": "Adecco staffing and recruitment agency in Norway.",
+    "url": "https://www.adecco.no"
+  },
+  {
+    "name": "Toptemp",
+    "category": "job",
+    "country": "norway",
+    "color": "blue",
+    "desc": "Norwegian staffing agency offering temporary and permanent jobs.",
+    "url": "https://www.toptemp.no"
+  },
+  {
+    "name": "Jobzone",
+    "category": "job",
+    "country": "norway",
+    "color": "blue",
+    "desc": "Norwegian recruitment and staffing company with local focus.",
+    "url": "https://www.jobzone.no"
+  },
+  {
+    "name": "Kelly Services Norway",
+    "category": "job",
+    "country": "norway",
+    "color": "blue",
+    "desc": "Global recruitment agency with a strong branch in Norway.",
+    "url": "https://www.kellyservices.no"
+  },
+  {
+    "name": "OmanJobs.om",
+    "category": "job",
+    "country": "oman",
+    "color": "blue",
+    "desc": "Dedicated job portal for Oman offering listings across industries.",
+    "url": "https://www.omanjobs.om"
+  },
+  {
+    "name": "NaukriGulf Oman",
+    "category": "job",
+    "country": "oman",
+    "color": "blue",
+    "desc": "Regional job portal NaukriGulf with a dedicated Oman section.",
+    "url": "https://www.naukrigulf.com/jobs-in-oman"
+  },
+  {
+    "name": "GulfTalent Oman",
+    "category": "job",
+    "country": "oman",
+    "color": "blue",
+    "desc": "Popular Gulf recruitment portal featuring opportunities in Oman.",
+    "url": "https://www.gulftalent.com/oman/jobs"
+  },
+  {
+    "name": "Bayt.com Oman",
+    "category": "job",
+    "country": "oman",
+    "color": "blue",
+    "desc": "Leading Middle East job portal with listings in Oman.",
+    "url": "https://www.bayt.com/en/oman/jobs"
+  },
+  {
+    "name": "Indeed Oman",
+    "category": "job",
+    "country": "oman",
+    "color": "blue",
+    "desc": "Localized version of Indeed for the Oman job market.",
+    "url": "https://om.indeed.com"
+  },
+  {
+    "name": "LinkedIn Oman Jobs",
+    "category": "job",
+    "country": "oman",
+    "color": "blue",
+    "desc": "Professional networking and job listings tailored to Oman.",
+    "url": "https://www.linkedin.com/jobs/oman"
+  },
+  {
+    "name": "Glassdoor Oman",
+    "category": "job",
+    "country": "oman",
+    "color": "blue",
+    "desc": "Glassdoor’s localized portal with jobs, salaries, and reviews in Oman.",
+    "url": "https://www.glassdoor.com/Job/oman-jobs-SRCH_IL.0,4_IN171.htm"
+  },
+  {
+    "name": "Jooble Oman",
+    "category": "job",
+    "country": "oman",
+    "color": "blue",
+    "desc": "Job aggregator pulling listings from multiple sources in Oman.",
+    "url": "https://om.jooble.org"
+  },
+  {
+    "name": "Adzuna Oman",
+    "category": "job",
+    "country": "oman",
+    "color": "blue",
+    "desc": "Oman branch of the global Adzuna job portal.",
+    "url": "https://www.adzuna.com.om"
+  },
+  {
+    "name": "Monster Gulf Oman",
+    "category": "job",
+    "country": "oman",
+    "color": "blue",
+    "desc": "Monster Gulf’s portal featuring jobs in Oman.",
+    "url": "https://www.monstergulf.com/oman-jobs"
+  },
+  {
+    "name": "Tanqeeb Oman",
+    "category": "job",
+    "country": "oman",
+    "color": "blue",
+    "desc": "Popular MENA region job search engine with listings in Oman.",
+    "url": "https://oman.tanqeeb.com"
+  },
+  {
+    "name": "OmanObserver Jobs",
+    "category": "job",
+    "country": "oman",
+    "color": "blue",
+    "desc": "Jobs section of Oman Observer newspaper featuring local listings.",
+    "url": "https://www.omanobserver.om/jobs"
+  },
+  {
+    "name": "Oman Classifieds Jobs",
+    "category": "job",
+    "country": "oman",
+    "color": "blue",
+    "desc": "Local classifieds portal with a dedicated job section.",
+    "url": "https://www.omanclassi.com/jobs"
+  },
+  {
+    "name": "Times of Oman Jobs",
+    "category": "job",
+    "country": "oman",
+    "color": "blue",
+    "desc": "Jobs section of the Times of Oman newspaper.",
+    "url": "https://timesofoman.com/jobs"
+  },
+  {
+    "name": "Oman Daily Observer Careers",
+    "category": "job",
+    "country": "oman",
+    "color": "blue",
+    "desc": "Careers section of the Oman Daily Observer featuring job vacancies.",
+    "url": "https://www.omanobserver.om/careers"
+  },
+  {
+    "name": "Oman Government Jobs",
+    "category": "government",
+    "country": "oman",
+    "color": "yellow",
+    "desc": "Official Oman government ministries and Civil Service Commission job portal.",
+    "url": "https://www.mocs.gov.om"
+  },
+  {
+    "name": "Michael Page Oman",
+    "category": "job",
+    "country": "oman",
+    "color": "blue",
+    "desc": "Recruitment agency offering professional and executive jobs in Oman.",
+    "url": "https://www.michaelpage.ae/jobs/oman"
+  },
+  {
+    "name": "Hays Oman",
+    "category": "job",
+    "country": "oman",
+    "color": "blue",
+    "desc": "Global recruitment agency with a presence in Oman.",
+    "url": "https://www.hays.ae"
+  },
+  {
+    "name": "Robert Walters Oman",
+    "category": "job",
+    "country": "oman",
+    "color": "blue",
+    "desc": "International recruitment consultancy with job opportunities in Oman.",
+    "url": "https://www.robertwalters.ae"
+  },
+  {
+    "name": "Adecco Middle East (Oman)",
+    "category": "job",
+    "country": "oman",
+    "color": "blue",
+    "desc": "Adecco recruitment and staffing services covering Oman.",
+    "url": "https://www.adecco.ae"
+  },
+  {
+    "name": "ManpowerGroup Middle East (Oman)",
+    "category": "job",
+    "country": "oman",
+    "color": "blue",
+    "desc": "Manpower recruitment and HR services in Oman.",
+    "url": "https://www.manpowergroup.ae"
   }
 ]
