@@ -135,10 +135,21 @@
     </div>
   </main>
 
-  <!-- Footer -->
-  <footer class="bg-gray-800 text-center text-gray-400 text-[11px] py-2 border-t border-gray-700">
-    © 2025 Job Portal | Built with <span class="text-red-400">♥</span> & TailwindCSS
+    <!-- Footer -->
+  <footer class="bg-gray-800 text-center text-gray-400 text-[11px] py-3 border-t border-gray-700">
+    <p>
+      © <span id="year"></span> 
+      <a href="https://nemocyberworld.github.io" target="_blank" class="text-blue-400 hover:underline">Captain Nemo</a>  
+      | Collaboration with <a href="https://hacktolive.net" target="_blank" class="text-green-400 hover:underline">HackToLive</a>  
+      | Repo: <a href="https://github.com/nemocyberworld/jobmarket" target="_blank" class="text-purple-400 hover:underline">jobmarket</a>
+    </p>
   </footer>
+
+  <script>
+    // Dynamically set current year
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+
 
   <!-- JavaScript -->
   <script>
