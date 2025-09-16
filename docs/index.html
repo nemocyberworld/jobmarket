@@ -1,1 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Job & Freelance Portal</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+</head>
+<body class="bg-gray-900 text-white min-h-screen flex flex-col">
+  <main class="flex-grow w-[95%] mx-auto py-6">
+    <!-- Header -->
+    <h1 class="text-2xl font-bold mb-3 text-center">🌐 Job & Freelance Portal</h1>
+    <p class="text-gray-400 mb-4 text-center text-xs">Search by platform, filter by category or country.</p>
 
+    <!-- Filters -->
+    <div class="flex flex-wrap justify-center gap-2 mb-4 text-xs">
+      <!-- Category Dropdown -->
+      <select id="categoryFilter" class="bg-gray-800 border border-gray-700 rounded px-2 py-1 text-xs">
+        <option value="all">📂 All Categories</option>
+        <option value="job">Job Portals (General)</option>
+        <option value="freelance">Freelance Platforms</option>
+        <option value="remote">Remote-Only Platforms</option>
+        <option value="tech">Tech-Specific</option>
+        <option value="startup">Startup / Niche</option>
+        <option value="government">Government & Public Sector</option>
+        <option value="creative">Creative & Design</option>
+        <option value="internship">Internships & Student Jobs</option>
+        <option value="academic">Academia & Research</option>
+        <option value="healthcare">Healthcare & Medical</option>
+        <option value="finance">Finance & Business</option>
+        <option value="ngo">Non-Profit / NGO / UN</option>
+        <option value="gig">Gig Economy & On-Demand</option>
+        <option value="engineering">Engineering & Manufacturing</option>
+        <option value="construction">Construction & Trades</option>
+        <option value="hospitality">Hospitality & Tourism</option>
+        <option value="retail">Retail & Customer Service</option>
+        <option value="legal">Legal & Law</option>
+        <option value="education">Education & Teaching</option>
+        <option value="media">Media & Journalism</option>
+        <option value="science">Science & Environment</option>
+        <option value="transport">Transportation & Logistics</option>
+        <option value="energy">Energy & Oil/Gas</option>
+        <option value="agriculture">Agriculture & Farming</option>
+        <option value="military">Military & Defense</option>
+        <option value="sales">Sales & Marketing</option>
+        <option value="hr">HR & Recruiting</option>
+        <option value="realestate">Real Estate & Property</option>
+        <option value="executive">Executive / C-Level Roles</option>
+        <option value="volunteer">Volunteer & Charity Work</option>
+      </select>
+
+    <!-- Country Dropdown -->
+    <select id="countryFilter" class="bg-gray-800 border border-gray-700 rounded px-2 py-1 text-xs">
+      <option value="all">🌍 All Countries</option>
+      <option value="global">Global</option>
+      <option value="argentina">Argentina</option>
+      <option value="australia">Australia</option>
+      <option value="austria">Austria</option>
+      <option value="bangladesh">Bangladesh</option>
+      <option value="belgium">Belgium</option>
+      <option value="brazil">Brazil</option>
+      <option value="bulgaria">Bulgaria</option>
+      <option value="canada">Canada</option>
+      <option value="chile">Chile</option>
+      <option value="china">China</option>
+      <option value="colombia">Colombia</option>
+      <option value="croatia">Croatia</option>
+      <option value="czechrepublic">Czech Republic</option>
+      <option value="denmark">Denmark</option>
+      <option value="egypt">Egypt</option>
+      <option value="estonia">Estonia</option>
+      <option value="finland">Finland</option>
+      <option value="france">France</option>
+      <option value="germany">Germany</option>
+      <option value="greece">Greece</option>
+      <option value="hongkong">Hong Kong</option>
+      <option value="hungary">Hungary</option>
+      <option value="india">India</option>
+      <option value="indonesia">Indonesia</option>
+      <option value="ireland">Ireland</option>
+      <option value="israel">Israel</option>
+      <option value="italy">Italy</option>
+      <option value="japan">Japan</option>
+      <option value="kenya">Kenya</option>
+      <option value="kuwait">Kuwait</option>
+      <option value="latvia">Latvia</option>
+      <option value="lebanon">Lebanon</option>
+      <option value="lithuania">Lithuania</option>
+      <option value="malaysia">Malaysia</option>
+      <option value="mexico">Mexico</option>
+      <option value="morocco">Morocco</option>
+      <option value="nepal">Nepal</option>
+      <option value="netherlands">Netherlands</option>
+      <option value="newzealand">New Zealand</option>
+      <option value="nigeria">Nigeria</option>
+      <option value="norway">Norway</option>
+      <option value="oman">Oman</option>
+      <option value="pakistan">Pakistan</option>
+      <option value="peru">Peru</option>
+      <option value="philippines">Philippines</option>
+      <option value="poland">Poland</option>
+      <option value="portugal">Portugal</option>
+      <option value="qatar">Qatar</option>
+      <option value="romania">Romania</option>
+      <option value="russia">Russia</option>
+      <option value="saudiarabia">Saudi Arabia</option>
+      <option value="singapore">Singapore</option>
+      <option value="southafrica">South Africa</option>
+      <option value="southkorea">South Korea</option>
+      <option value="spain">Spain</option>
+      <option value="sriLanka">Sri Lanka</option>
+      <option value="sweden">Sweden</option>
+      <option value="switzerland">Switzerland</option>
+      <option value="taiwan">Taiwan</option>
+      <option value="thailand">Thailand</option>
+      <option value="turkey">Turkey</option>
+      <option value="uae">UAE</option>
+      <option value="uk">UK</option>
+      <option value="ukraine">Ukraine</option>
+      <option value="usa">USA</option>
+      <option value="vietnam">Vietnam</option>
+    </select>
+
+
+    </div>
+
+    <!-- Search -->
+    <div class="flex justify-center mb-4">
+      <input id="searchBox" type="text" placeholder="🔍 Search platforms..."
+        class="w-full max-w-lg p-2 text-sm rounded bg-gray-800 border border-gray-700 focus:outline-none focus:ring-2 focus:ring-blue-500"/>
+    </div>
+
+    <!-- Platforms Grid -->
+    <div id="platforms" class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-8 gap-2 text-xs">
+      <!-- Cards will be dynamically loaded -->
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="bg-gray-800 text-center text-gray-400 text-[11px] py-2 border-t border-gray-700">
+    © 2025 Job Portal | Built with <span class="text-red-400">♥</span> & TailwindCSS
+  </footer>
+
+  <!-- JavaScript -->
+  <script>
+    const searchBox = document.getElementById("searchBox");
+    const categoryFilter = document.getElementById("categoryFilter");
+    const countryFilter = document.getElementById("countryFilter");
+    const platformsContainer = document.getElementById("platforms");
+
+    let sites = [];
+    let activeCategory = "all";
+    let activeCountry = "all";
+
+    // Load JSON file
+    async function loadSites() {
+      try {
+        const res = await fetch("sites/sites.json");
+        sites = await res.json();
+        renderSites();
+      } catch (e) {
+        console.error("Error loading sites.json", e);
+      }
+    }
+
+    // Render cards
+    function renderSites() {
+      platformsContainer.innerHTML = "";
+      const query = searchBox.value.toLowerCase();
+
+      sites.forEach(site => {
+        const matchCategory = (activeCategory === "all" || site.category === activeCategory);
+        const matchCountry = (activeCountry === "all" || site.country.includes(activeCountry));
+        const matchSearch = site.name.toLowerCase().includes(query);
+
+        if (matchCategory && matchCountry && matchSearch) {
+          const card = document.createElement("div");
+          card.className = "bg-gray-800 p-2 rounded shadow";
+          card.innerHTML = `
+            <h2 class="font-semibold text-${site.color}-300 text-sm">${site.name}</h2>
+            <p class="text-gray-400 text-[11px] mb-1">${site.desc}</p>
+            <a href="${site.url}" target="_blank"
+              class="block text-center bg-${site.color}-600 hover:bg-${site.color}-700 py-0.5 rounded text-[11px]">Visit</a>
+          `;
+          platformsContainer.appendChild(card);
+        }
+      });
+    }
+
+    // Filters
+    searchBox.addEventListener("input", renderSites);
+    categoryFilter.addEventListener("change", () => {
+      activeCategory = categoryFilter.value;
+      renderSites();
+    });
+    countryFilter.addEventListener("change", () => {
+      activeCountry = countryFilter.value;
+      renderSites();
+    });
+
+    // Initialize
+    loadSites();
+  </script>
+</body>
+</html>
